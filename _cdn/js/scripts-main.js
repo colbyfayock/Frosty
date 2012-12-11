@@ -1,5 +1,3 @@
-// Sidebar List Collapse
-
 $(function(){
 	$('.list-collapse h3 a').click(function(e){
 		e.preventDefault();
