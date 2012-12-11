@@ -1,0 +1,31 @@
+/*
+Theme Name: Frosty Deals
+Theme URI: http://www.frostydeals.com
+Description: Frosty Deals web
+Version: 1.0
+Author: Colby Fayock & Broc Klein
+Author URI: http://www.colbyfayock.com
+Tags: Frosty Deals
+*/
+
+*{
+	color:#6E6E6E;
+	font-size:12px;
+	font-family:Arial, helvetica, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	list-style:none;
+	padding:0;
+	border:0;
+	outline:0;
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+	-khtml-border-radius:0;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	margin:0;
+}

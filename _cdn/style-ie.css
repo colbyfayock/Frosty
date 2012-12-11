@@ -1,0 +1,39 @@
+/* IE Styles */
+
+.blue:hover{background-color:#25355a;}
+.blue:active{background-color:#11192a;}
+.grey-input:hover,
+.grey-input:active,
+.grey-input:focus{background-color:#eee;}
+
+#header{width:96%;}
+
+#nav ul{width:auto;float:right;}
+#nav li{float:left;}
+
+#content{width:56%;}
+
+.sidebar{width:16%;}
+.sidebar .btn{width:96%;}
+.sidebar h3, .sidebar li{border:0;}
+.sidebar li a:hover{background-color:#eee;}
+.sidebar li a:active{background-color:#ddd;}
+
+
+/* Deals */
+.panel{
+	margin:.9%;
+}
+.product-name, .share-button, .time-left, .time-left span, .product-image, .product-image img{
+	border:0;
+}
+.product-name{
+	width:78%;
+	padding-left:2%;
+}
+
+.time-left, .product-image{
+	width:96%;
+	padding-left:2%;
+	padding-right:2%;
+}

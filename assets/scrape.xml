@@ -1,0 +1,478 @@
+<?xml version="1.0" ?>
+<sites><woot>
+	<woot>
+		<siteName>woot!</siteName>
+		<siteUrl>www.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>LG 47&amp;quot; or 55&amp;quot; 1080p LED HDTV</prodName>
+		<prodNameTrim>LG 47&amp;quot; or 55&amp;quot; 1...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/dddea974-b427-4593-871a-c4a74d9ee3fb.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>Refurbished</prodCondition>
+		<prodPrice>$499.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>99.3</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=LG+47%26quot;+or+55%26quot;+1080p+LED+HDTV%26x=0%26y=0</prodZonLink>
+	</woot>
+	<wootTech>
+		<siteName>tech.woot!</siteName>
+		<siteUrl>tech.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>PENTAX 16MP Optio 18X Optical Zoom</prodName>
+		<prodNameTrim>PENTAX 16MP Optio 18X Opt...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/1ae5ac40-dfb6-42ba-b030-fe651c1e9b75.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$99.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>99.7</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/tech.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=PENTAX+16MP+Optio+18X+Optical+Zoom%26x=0%26y=0</prodZonLink>
+	</wootTech>
+	<wootHome>
+		<siteName>home.woot!</siteName>
+		<siteUrl>home.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Rosle 25000 Charcoal BBQ Grill</prodName>
+		<prodNameTrim>Rosle 25000 Charcoal BBQ ...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5f9af07f-c6db-4538-8985-7b00d668ef72.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$299.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/home.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Rosle+25000+Charcoal+BBQ+Grill%26x=0%26y=0</prodZonLink>
+	</wootHome>
+	<wootSport>
+		<siteName>sport.woot!</siteName>
+		<siteUrl>sport.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Rawlings Long Sleeve Fleece Pullover</prodName>
+		<prodNameTrim>Rawlings Long Sleeve Flee...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5d42111b-252f-417a-9b70-f0ad09a3fa25.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$12.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>99.9</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/sport.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Rawlings+Long+Sleeve+Fleece+Pullover%26x=0%26y=0</prodZonLink>
+	</wootSport>
+	<wootKids>
+		<siteName>kids.woot!</siteName>
+		<siteUrl>kids.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>KidKraft 2-in-1 Activity Table</prodName>
+		<prodNameTrim>KidKraft 2-in-1 Activity ...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/bc02c7ad-9d12-4b6d-b54c-2d975753aa93.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$79.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>99.8</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/kids.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=KidKraft+2-in-1+Activity+Table%26x=0%26y=0</prodZonLink>
+	</wootKids>
+	<wootShirt>
+		<siteName>shirt.woot!</siteName>
+		<siteUrl>shirt.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Hipster Ninja</prodName>
+		<prodNameTrim>Hipster Ninja</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/539c14a4-bb0c-4fa7-9fb0-c6d122820e04.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$12.00</prodPrice>
+		<prodShipping>Free</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/shirt.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Hipster+Ninja%26x=0%26y=0</prodZonLink>
+	</wootShirt>
+	<wootWine>
+		<siteName>wine.woot!</siteName>
+		<siteUrl>wine.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Tasi Merlot Case (12)</prodName>
+		<prodNameTrim>Tasi Merlot Case (12)</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/9fd99b70-659b-40b3-bcf3-b078dfa93297.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$89.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>99.8</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/wine.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Tasi+Merlot+Case+(12)%26x=0%26y=0</prodZonLink>
+	</wootWine>
+	<wootSellout>
+		<siteName>sellout.woot!</siteName>
+		<siteUrl>sellout.woot.com</siteUrl>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Archos 10.1&amp;quot; 8GB Android Tablet</prodName>
+		<prodNameTrim>Archos 10.1&amp;quot; 8GB And...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/c46ba8c0-7fcb-489c-8a26-2e7d5bb02f68.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>Refurbished</prodCondition>
+		<prodPrice>$129.99</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>99.8</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/sellout.woot!.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Archos+10.1%26quot;+8GB+Android+Tablet%26x=0%26y=0</prodZonLink>
+	</wootSellout>
+</woot>
+<midnightBox>
+	<midnightBox1>
+		<siteName>MidnightBox 1</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d0</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Apple iPod nano 8 GB Pink (6th Generation) MC692LL/A</prodName>
+		<prodNameTrim>Apple iPod nano 8 GB Pink...</prodNameTrim>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10042198-210.jpg</prodImgUrl>
+		<prodDescription>Redesigned for music and Multi-Touch, iPod nano is smaller and lighter than ever. You can clip it to your sleeve, jacket, or running shorts and keep your favorite songs at your fingertips--along with the Genius feature, a built-in FM radio, pedometer, and more. And the anodized aluminum finish in six bright colors makes this new design even more brilliant.</prodDescription>
+		<prodCondition>Recertified</prodCondition>
+		<prodPrice>$81.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>30</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/midnightbox1.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Apple+iPod+nano+8+GB+Pink+(6th+Generation)+MC692LL/A%26x=0%26y=0</prodZonLink>
+	</midnightBox1>
+	<midnightBox2>
+		<siteName>MidnightBox 2</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d1</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>The &amp;quot;Shape of Spring&amp;quot; Dress</prodName>
+		<prodNameTrim>The &amp;quot;Shape of Spring...</prodNameTrim>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10044322-110.jpg</prodImgUrl>
+		<prodDescription>Some days, you don't want to bother with zippers, buttons, straps, and other unnecessary accessories. This dress is a one-stop style savior; complete with easy to wear design and a fun color just in time for Spring. Simply throw it on and let the soft texture and shape do the work for you. Or try it belted for a more elegant look with a chunky necklace. With heels or sandals, this stunning dress is your ticket to the A-list.</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$12.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>80</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/midnightbox2.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=The+%26quot;Shape+of+Spring%26quot;+Dress%26x=0%26y=0</prodZonLink>
+	</midnightBox2>
+	<midnightBox3>
+		<siteName>MidnightBox 3</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d2</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Bugs Lock Mosquito Repellent Band (6 Pack, Assorted Colors)</prodName>
+		<prodNameTrim>Bugs Lock Mosquito Repell...</prodNameTrim>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10042913-110.jpg</prodImgUrl>
+		<prodDescription>Tired of wasting money on smelly candles that do more damage to your nose than the mosquitoes? This innovative deal lets you relax and enjoy your day without the hassle of candles, nets, harmful sprays, and other inconvenient repellant methods. Great for kids and adults alike, this deal puts a fun (and stylish) twist on keeping bugs at bay.</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$4.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>67</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/midnightbox3.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Bugs+Lock+Mosquito+Repellent+Band+(6+Pack,+Assorted+Colors)%26x=0%26y=0</prodZonLink>
+	</midnightBox3>
+</midnightBox>
+<yugster>
+	<yugsterDailyOffer>
+		<siteName>Yugster Daily Offer</siteName>
+		<siteUrl>yugster.com/todays-deals/daily-offer</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>HP Pavilion P6 Dual-Core PC</prodName>
+		<prodNameTrim>HP Pavilion P6 Dual-Core PC</prodNameTrim>
+		<prodImgUrl>http://yugster.com/uploads/image/image/10592/hp_pavilion_p6_desktop_2.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$339.97</prodPrice>
+		<prodShipping>$10</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>33.295138888889</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsterdailyoffer.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=HP+Pavilion+P6+Dual-Core+PC%26x=0%26y=0</prodZonLink>
+	</yugsterDailyOffer>
+	<yugsterYoursUntilGone>
+		<siteName>Yugster Yours Until Gone</siteName>
+		<siteUrl>yugster.com/todays-deals/yours-until-gone</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Motorola Bluetooth In-Car Speakerphone</prodName>
+		<prodNameTrim>Motorola Bluetooth In-Car...</prodNameTrim>
+		<prodImgUrl>http://yugster.com/uploads/image/image/10615/motorola_t225_in-car_speakerphone_2.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$17.97</prodPrice>
+		<prodShipping>$4</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>33.293981481481</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsteryoursuntilgone.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Motorola+Bluetooth+In-Car+Speakerphone%26x=0%26y=0</prodZonLink>
+	</yugsterYoursUntilGone>
+	<yugsterDailyWatchDeal>
+		<siteName>Yugster Daily Watch Deal</siteName>
+		<siteUrl>yugster.com/todays-deals/daily-watch-deal</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Technomarine Cruise Sport Black Dial Orange Silicone</prodName>
+		<prodNameTrim>Technomarine Cruise Sport...</prodNameTrim>
+		<prodImgUrl>http://yugster.com/uploads/image/image/9809/111016.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$119.00</prodPrice>
+		<prodShipping>Free</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>33.292824074074</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsterdailywatchdeal.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Technomarine+Cruise+Sport+Black+Dial+Orange+Silicone%26x=0%26y=0</prodZonLink>
+	</yugsterDailyWatchDeal>
+	<yugsterSpecialOffer>
+		<siteName>Yugster Special Offer</siteName>
+		<siteUrl>yugster.com/todays-deals/special-offer</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Cuisinart Electric Fondue Maker</prodName>
+		<prodNameTrim>Cuisinart Electric Fondue...</prodNameTrim>
+		<prodImgUrl>http://yugster.com/uploads/image/image/10620/cuisinart_cfo-3ss_fondue_set_2.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$39.97</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>33.291666666667</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsterspecialoffer.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Cuisinart+Electric+Fondue+Maker%26x=0%26y=0</prodZonLink>
+	</yugsterSpecialOffer>
+</yugster>
+<oneSaleADay>
+	<oneSaleADay>
+		<siteName>1 Sale A Day</siteName>
+		<siteUrl>www.ocsadtrack.com/click.track?CID=168142&amp;amp;AFID=206138&amp;amp;ADID=579788</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Bentley Mounts 19&amp;quot;- 46&amp;quot; Tilt &amp;amp; Swivel Articulating VESA 400 x 400mm TV Wall Mount!</prodName>
+		<prodNameTrim>Bentley Mounts 19&amp;quot;- ...</prodNameTrim>
+		<prodImgUrl>https://s3.amazonaws.com/1saleaday/images/39681/original/LCM-3260AB_12791_0_31009_0.jpg?1343920465</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$14.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>71</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Bentley+Mounts+19%26quot;-+46%26quot;+Tilt+%26+Swivel+Articulating+VESA+400+x+400mm+TV+Wall+Mount!%26x=0%26y=0</prodZonLink>
+	</oneSaleADay>
+	<oneSaleADayWireless>
+		<siteName>1 Sale A Day - Wireless</siteName>
+		<siteUrl>www.ocsadtrack.com/click.track?CID=173477&amp;amp;AFID=206138&amp;amp;ADID=579857</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Vivitar 8MP Digital Camera Binoculars with 12x Magnification, Continuous Shot Mode &amp;amp; 1.44&amp;quot; LCD Screen!</prodName>
+		<prodNameTrim>Vivitar 8MP Digital Camer...</prodNameTrim>
+		<prodImgUrl>https://s3.amazonaws.com/1saleaday/images/39684/original/vivitar_digital_camera_binocs_20775_0.jpg?1343922140</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$39.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>71</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday-wireless.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Vivitar+8MP+Digital+Camera+Binoculars+with+12x+Magnification,+Continuous+Shot+Mode+%26+1.44%26quot;+LCD+Screen!%26x=0%26y=0</prodZonLink>
+	</oneSaleADayWireless>
+	<oneSaleADayWatch>
+		<siteName>1 Sale A Day - Watch</siteName>
+		<siteUrl>www.ocsadtrack.com/click.track?CID=173478&amp;amp;AFID=206138&amp;amp;ADID=579846</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Ensemble Men's Watch Gift Set + Matching Wallet &amp;amp; Pen!</prodName>
+		<prodNameTrim>Ensemble Men's Watch Gift...</prodNameTrim>
+		<prodImgUrl>https://s3.amazonaws.com/1saleaday/images/39669/original/QB-1847-2nd_image.jpg?1343919614</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$9.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>71</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday-watch.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Ensemble+Men's+Watch+Gift+Set+++Matching+Wallet+%26+Pen!%26x=0%26y=0</prodZonLink>
+	</oneSaleADayWatch>
+	<oneSaleADayFamily>
+		<siteName>1 Sale A Day - Family</siteName>
+		<siteUrl>www.ocsadtrack.com/click.track?CID=173476&amp;amp;AFID=206138&amp;amp;ADID=579823</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Victorinox Seefeld Collection 25&amp;quot; or 28&amp;quot; Expandable Suitcase w/ 360 Degree Response Rotating Handle!</prodName>
+		<prodNameTrim>Victorinox Seefeld Collec...</prodNameTrim>
+		<prodImgUrl>https://s3.amazonaws.com/1saleaday/images/39823/original/81-4201_21480_0.jpg?1343937335</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$99.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>71</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday-family.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Victorinox+Seefeld+Collection+25%26quot;+or+28%26quot;+Expandable+Suitcase+w/+360+Degree+Response+Rotating+Handle!%26x=0%26y=0</prodZonLink>
+	</oneSaleADayFamily>
+	<oneSaleADayJewelry>
+		<siteName>1 Sale A Day - Jewelry</siteName>
+		<siteUrl>www.ocsadtrack.com/click.track?CID=173481&amp;amp;AFID=206138&amp;amp;ADID=579835</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>9-Stone Sterling Silver Diamond Eternity Band!</prodName>
+		<prodNameTrim>9-Stone Sterling Silver D...</prodNameTrim>
+		<prodImgUrl>https://s3.amazonaws.com/1saleaday/images/39110/original/C118-DIA_new_24100_0_12721_0_17030_0_14502_0.jpg?1343744753</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$9.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>71</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday-jewelry.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=9-Stone+Sterling+Silver+Diamond+Eternity+Band!%26x=0%26y=0</prodZonLink>
+	</oneSaleADayJewelry>
+</oneSaleADay>
+<justDeals>
+	<justDeals1>
+		<siteName>JustDeals 1</siteName>
+		<siteUrl>justdeals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Hype Bluetooth Keyboard Workstation Folio for iPad</prodName>
+		<prodNameTrim>Hype Bluetooth Keyboard W...</prodNameTrim>
+		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/hype-bluetooth-keyboard-hy-1024-sbt-a.jpg</prodImgUrl>
+		<prodDescription> Condition: Brand NewPackage: RetailModel: HY-1024-SBTWarranty: 90 days  If  you love your tablet but find yourself missing the flow of working with a  keyboard, the Hype Bluetooth Keyboard Workstation Folio is your solution.  This sleek and sophisticated folio uses Bluetooth technology to connect with  your iPad or iPad2 and break down the only nagging limitation of the tablet;  a lack of keyboard. Drastically improve your iPad&amp;#039;s production capabilities  with the smooth and sensitive silicone keys. Your iPad will fit snugly and  securely into the built-in stand which uses safe magnetic closure to enfold  your iPad when not in use and protect it from bumps and scrapes in your  travels. With the promise of a productive zenith combined with a secure  shield against daily wear and tear, the Hype Bluetooth Keyboard Workstation  Folio is a sage investment for any iPad owner. </prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$22.77</prodPrice>
+		<prodShipping>$5.00</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals1.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Hype+Bluetooth+Keyboard+Workstation+Folio+for+iPad%26x=0%26y=0</prodZonLink>
+	</justDeals1>
+	<justDeals2>
+		<siteName>JustDeals 2</siteName>
+		<siteUrl>justdeals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Vibe E-ssential Digital Video Camera, 1.5”LCD, Youtube-Ready</prodName>
+		<prodNameTrim>Vibe E-ssential Digital V...</prodNameTrim>
+		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/hype-camcorder-a-360x360.jpg</prodImgUrl>
+		<prodDescription> Condition: Brand NewPackage: RetailModel: VE-310DV-DGWarranty: 90 days   Whether you want to shoot digital video or snap a few still shots, the Vibe  E-ssential VE-310-DV Digital Video Camera is up for the job, using a 4x  digital zoom to place you right in the action without getting your hands  dirty or your feet wet. Small enough to fit in your bag and featuring a  convenient stabilizing wrist strap, you&amp;#039;ll never be caught without your  camera on hand again. The self-timer and built-in flash will lend to some of  the best still photos you&amp;#039;ve taken. Review your handiwork on the ample 1.5&amp;quot;  TFT LCD display and then transfer to your Youtube account effortlessly. For  even more storage capabilities, the SD card slot allows for expansion of up  to 4GB. With the Vibe E-ssential VE-310-DV Digital Video Camera you can  preserve the important moments of your life in still shots and video,  reliving them over and over again! </prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$17.77</prodPrice>
+		<prodShipping>$5.00</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals2.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Vibe+E-ssential+Digital+Video+Camera,+1.5”LCD,+Youtube-Ready%26x=0%26y=0</prodZonLink>
+	</justDeals2>
+	<justDeals3>
+		<siteName>JustDeals 3</siteName>
+		<siteUrl>justdeals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Sony MDR-570LP Headphones-Black; 30mm Driver, Comfortable</prodName>
+		<prodNameTrim>Sony MDR-570LP Headphones...</prodNameTrim>
+		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/sony-mdr570lp-headphones-a.jpg</prodImgUrl>
+		<prodDescription> Condition: Brand New Package: Retail Model: MDR-570LP Warranty: 90 days   Explore new vistas of sound with the dynamic, yet uber comfortable Sony  MDR-570LP headphones. These headphones utilize urethane pads that reduce the  pressure on your ears, padding while fitting comfortably on the ear but not  cupping like smothering full-size headphones. The 30mm driver units provide  crisp, ultra clear sound while the urethane cushion circle shields your  listening experience from outer interference. The generous 3.9-foot cord  allows you freedom of movement but can be restricted using the cord adjuster  to fit your preference. The Sony MDR-570LP headphones offer extreme comfort  with crystal clear sound; what else is there? </prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$15.77</prodPrice>
+		<prodShipping>$5.00</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals3.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Sony+MDR-570LP+Headphones-Black;+30mm+Driver,+Comfortable%26x=0%26y=0</prodZonLink>
+	</justDeals3>
+	<justDeals4>
+		<siteName>JustDeals 4</siteName>
+		<siteUrl>justdeals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Euro-Pro Shark Cyclonic Bagless Handheld Vacuum, Turbo Brush</prodName>
+		<prodNameTrim>Euro-Pro Shark Cyclonic B...</prodNameTrim>
+		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/shark-v900tb-handheld-vacuum-a-360x360_0.jpg</prodImgUrl>
+		<prodDescription> Condition: RefurbishedPackage: RetailModel: V900TBWarranty: 1 year  Why  waste cash on vacuum bags when you can take advantage of the Euro-Pro Shark  V900TB Cyclonic Bagless Handheld Vacuum? This bagless beauty uses an  indispensable HEPA filter to facilitate enormous suction capable of  eliminating built up pet hair and ground-in dirt. The HEPA filter of this  energy-conserving 850 watt vacuum can simply be tapped clean! The versatile  crevice brush removes grime from hard-to-reach creases, further aided by a  flexible long-reaching extension hose. The deep cleaning power brush easily  breaks down and obliterates tenacious messes. The included shoulder strap  equips the Euro-Pro Shark V900TB Cyclonic Bagless Handheld Vacuum with  everything you need to combat the dirtiest messes effortlessly! </prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$34.77</prodPrice>
+		<prodShipping>$5.00</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals4.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Euro-Pro+Shark+Cyclonic+Bagless+Handheld+Vacuum,+Turbo+Brush%26x=0%26y=0</prodZonLink>
+	</justDeals4>
+</justDeals>
+<dailySteals>
+	<dailyStealsMain>
+		<siteName>Daily Steals Main</siteName>
+		<siteUrl>dailysteals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Vaas 5000mAh Dual-Charging Battery Pack for Apple Devices, Mobile Phones and Micro/Mini USB Devices (Choice of Black or White)</prodName>
+		<prodNameTrim>Vaas 5000mAh Dual-Chargin...</prodNameTrim>
+		<prodImgUrl>http://ds_product_photos.s3.amazonaws.com/large/13180.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$79.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/dailystealsmain.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Vaas+5000mAh+Dual-Charging+Battery+Pack+for+Apple+Devices,+Mobile+Phones+and+Micro/Mini+USB+Devices+(Choice+of+Black+or+White)%26x=0%26y=0</prodZonLink>
+	</dailyStealsMain>
+	<dailyStealsMobile>
+		<siteName>Daily Steals Mobile</siteName>
+		<siteUrl>dailysteals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>4-Pack HP Black and Color Ink Printer Cartridges HP564</prodName>
+		<prodNameTrim>4-Pack HP Black and Color...</prodNameTrim>
+		<prodImgUrl>http://ds_product_photos.s3.amazonaws.com/large/13163.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$59.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/dailystealsmobile.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=4-Pack+HP+Black+and+Color+Ink+Printer+Cartridges+HP564%26x=0%26y=0</prodZonLink>
+	</dailyStealsMobile>
+	<dailyStealsHome>
+		<siteName>Daily Steals Home</siteName>
+		<siteUrl>dailysteals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Cookina Reusable 100% Nonstick Fat-Free Baking or Barbecue Sheet - Cook Up to 500 Degrees - Must Watch Video</prodName>
+		<prodNameTrim>Cookina Reusable 100% Non...</prodNameTrim>
+		<prodImgUrl>http://ds_product_photos.s3.amazonaws.com/large/13244.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$29.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/dailystealshome.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Cookina+Reusable+100%+Nonstick+Fat-Free+Baking+or+Barbecue+Sheet+-+Cook+Up+to+500+Degrees+-+Must+Watch+Video%26x=0%26y=0</prodZonLink>
+	</dailyStealsHome>
+	<dailyStealsToys>
+		<siteName>Daily Steals Toys</siteName>
+		<siteUrl>dailysteals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Razer Carcharias Gaming Headset with Noise Canceling Microphone</prodName>
+		<prodNameTrim>Razer Carcharias Gaming H...</prodNameTrim>
+		<prodImgUrl>http://ds_product_photos.s3.amazonaws.com/large/13226.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$99.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/dailystealstoys.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Razer+Carcharias+Gaming+Headset+with+Noise+Canceling+Microphone%26x=0%26y=0</prodZonLink>
+	</dailyStealsToys>
+	<dailyStealsLastCall>
+		<siteName>Daily Steals Last Call</siteName>
+		<siteUrl>dailysteals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>Chillow Water-Filled Cool Comfort Device - Relieve Night Sweats, Hot Flashes, High Fever and More! - Must Watch Video</prodName>
+		<prodNameTrim>Chillow Water-Filled Cool...</prodNameTrim>
+		<prodImgUrl>http://ds_product_photos.s3.amazonaws.com/large/13179.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$49.99</prodPrice>
+		<prodShipping>$4.99</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/dailystealslastcall.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Chillow+Water-Filled+Cool+Comfort+Device+-+Relieve+Night+Sweats,+Hot+Flashes,+High+Fever+and+More!+-+Must+Watch+Video%26x=0%26y=0</prodZonLink>
+	</dailyStealsLastCall>
+</dailySteals>
+</sites>
