@@ -18,7 +18,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$49.99</prodPrice>
 		<prodShipping>$5</prodShipping>
 		<prodSoldOut>false</prodSoldOut>
-		<prodSoldOutPercent>99.87</prodSoldOutPercent>
+		<prodSoldOutPercent>99.16</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/woot!.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Avid+49-Note+Keyboard%26x=0%26y=0</prodZonLink>
 	</woot>
@@ -42,49 +42,49 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<siteName>home.woot!</siteName>
 		<siteUrl>home.woot.com</siteUrl>
 		<siteSpecial>true</siteSpecial>
-		<prodName>Sugar &amp;amp; Spice Basket</prodName>
-		<prodNameTrim>Sugar &amp;amp; Spice Basket</prodNameTrim>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/7eb2968f-25c4-4077-9234-9f3de118cbc2.png</prodImgUrl>
+		<prodName>Caramel Apple Dip and Topping</prodName>
+		<prodNameTrim>Caramel Apple Dip and Top...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/1af40d43-e732-4b12-a407-efe489703574.png</prodImgUrl>
 		<prodDescription></prodDescription>
-		<prodCondition></prodCondition>
-		<prodPrice>$24.99</prodPrice>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$5.99</prodPrice>
 		<prodShipping>$5</prodShipping>
 		<prodSoldOut>false</prodSoldOut>
-		<prodSoldOutPercent>99.98</prodSoldOutPercent>
+		<prodSoldOutPercent>99.82</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/home.woot!.jpg</prodDealImg>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Sugar+%26+Spice+Basket%26x=0%26y=0</prodZonLink>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Caramel+Apple+Dip+and+Topping%26x=0%26y=0</prodZonLink>
 	</wootHome>
 	<wootSport>
 		<siteName>sport.woot!</siteName>
 		<siteUrl>sport.woot.com</siteUrl>
 		<siteSpecial>true</siteSpecial>
-		<prodName>SKLZ 3-Point Football Kicking Tee</prodName>
-		<prodNameTrim>SKLZ 3-Point Football Kic...</prodNameTrim>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/c5fe7630-8373-44ea-bec3-e0b227249c41.jpg</prodImgUrl>
+		<prodName>Frabill 20&amp;quot;x24&amp;quot; Net, 30-48&amp;quot; Handle</prodName>
+		<prodNameTrim>Frabill 20&amp;quot;x24&amp;quot;...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/e178cac4-1e59-49b2-825e-374cec3759b1.png</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$5.00</prodPrice>
+		<prodPrice>$60.00</prodPrice>
 		<prodShipping>$5</prodShipping>
 		<prodSoldOut>false</prodSoldOut>
-		<prodSoldOutPercent>99.96</prodSoldOutPercent>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/sport.woot!.jpg</prodDealImg>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=SKLZ+3-Point+Football+Kicking+Tee%26x=0%26y=0</prodZonLink>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Frabill+20%26quot;x24%26quot;+Net,+30-48%26quot;+Handle%26x=0%26y=0</prodZonLink>
 	</wootSport>
 	<wootKids>
 		<siteName>kids.woot!</siteName>
 		<siteUrl>kids.woot.com</siteUrl>
 		<siteSpecial>true</siteSpecial>
-		<prodName>Melissa &amp;amp; Doug Activity Bundles</prodName>
-		<prodNameTrim>Melissa &amp;amp; Doug Activi...</prodNameTrim>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/67b89356-fd20-4560-9ac7-686c43749c7d.png</prodImgUrl>
+		<prodName>Disney Charm Book 4 Pack Bundle</prodName>
+		<prodNameTrim>Disney Charm Book 4 Pack ...</prodNameTrim>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/8fad9517-e4b9-4479-a2c2-50e9117a3fa1.png</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$14.99</prodPrice>
+		<prodPrice>$17.99</prodPrice>
 		<prodShipping>$5</prodShipping>
 		<prodSoldOut>false</prodSoldOut>
-		<prodSoldOutPercent>99.31</prodSoldOutPercent>
+		<prodSoldOutPercent>99.99</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/kids.woot!.jpg</prodDealImg>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Melissa+%26+Doug+Activity+Bundles%26x=0%26y=0</prodZonLink>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Disney+Charm+Book+4+Pack+Bundle%26x=0%26y=0</prodZonLink>
 	</wootKids>
 	<wootShirt>
 		<siteName>shirt.woot!</siteName>
@@ -114,7 +114,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$39.99</prodPrice>
 		<prodShipping>$5</prodShipping>
 		<prodSoldOut>false</prodSoldOut>
-		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodSoldOutPercent>99.28</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/wine.woot!.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Salute+Sante+Grapeseed+Oil+Gift+Set%26x=0%26y=0</prodZonLink>
 	</wootWine>
@@ -164,7 +164,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$10.95</prodPrice>
 		<prodShipping>$3.99</prodShipping>
 		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>29</prodSoldOutPercent>
+		<prodSoldOutPercent>27</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/midnightbox2.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Duracell+AA+Batteries+(40-Pack)%26x=0%26y=0</prodZonLink>
 	</midnightBox2>
@@ -198,7 +198,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$11.97</prodPrice>
 		<prodShipping>$4</prodShipping>
 		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>31.208333333333</prodSoldOutPercent>
+		<prodSoldOutPercent>29.814814814815</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsterdailyoffer.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=XtremeMac+Bluetooth+Audio+Receiver+and+USB+Charger%26x=0%26y=0</prodZonLink>
 	</yugsterDailyOffer>
@@ -214,7 +214,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$4.97</prodPrice>
 		<prodShipping>$3</prodShipping>
 		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>31.207175925926</prodSoldOutPercent>
+		<prodSoldOutPercent>29.814814814815</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsteryoursuntilgone.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=10-in-1+USB+Charger+with+Car+and+Wall+Adapters%26x=0%26y=0</prodZonLink>
 	</yugsterYoursUntilGone>
@@ -230,7 +230,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$59.99</prodPrice>
 		<prodShipping>Free</prodShipping>
 		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>31.206018518519</prodSoldOutPercent>
+		<prodSoldOutPercent>29.813657407407</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/yugsterdailywatchdeal.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Invicta+Women's+Angel+Silver+Dial+Gray+Silicone%26x=0%26y=0</prodZonLink>
 	</yugsterDailyWatchDeal>
@@ -248,7 +248,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$19.99</prodPrice>
 		<prodShipping>$4.99</prodShipping>
 		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>70</prodSoldOutPercent>
+		<prodSoldOutPercent>69</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday-wireless.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Cisco+Linksys+Modem+%26+Wireless+'N'+Router+w/+ADSL2++%26+Fast+Ethernet+4-Port+Switch!%26x=0%26y=0</prodZonLink>
 	</oneSaleADayWireless>
@@ -264,7 +264,7 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodPrice>$12.99</prodPrice>
 		<prodShipping>$4.99</prodShipping>
 		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>70</prodSoldOutPercent>
+		<prodSoldOutPercent>69</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/1saleaday-family.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Lock+%26+Lock+Boroseal+II+8-Piece+Borosilicate+Glass+Storage+Set+-+Heat+Safe,+Cool+Safe,+and+Odor+Resistant!%26x=0%26y=0</prodZonLink>
 	</oneSaleADayFamily>
@@ -290,36 +290,20 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<siteName>JustDeals 2</siteName>
 		<siteUrl>justdeals.com</siteUrl>
 		<siteSpecial></siteSpecial>
-		<prodName>3.5” LCD Digital Picture Frame for Desk or Wall</prodName>
-		<prodNameTrim>3.5” LCD Digital Pictur...</prodNameTrim>
-		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/3.5_lcd_digital_picture_frame_c_-_360_x_360.jpg</prodImgUrl>
-		<prodDescription> Condition: Brand New Package: Retail Warranty: 1 year  Light up your day,  literally and figuratively, with this 3.5&amp;quot; LCD Digital Picture Frame from  Optimus, ideal for desk and wall alike! Change your photos with your moods by  simply plugging your SD card into the 4 in 1 slot at the side of the frame.  The easy-to-use push button controls allow you to scroll through your photos  as well as rotate images for a stronger visual aesthetic. Too many amazing  pictures to settle on just one for the day? The slideshow feature keeps your  favorite images in rotation for unique, ever-shifting decor. It definitely  beats rearranging your furniture every 30 seconds. The perfect image, whether  it be of your family or a cat with its head stuck in a box, is sure to  brighten your day and you have no brighter option than this 3.5&amp;quot; LCD Digital  Picture Frame.  *Choose from Black, Red, or Pink </prodDescription>
+		<prodName>Jumbo Print USB Keyboard, PC &amp;amp; Mac Compatible</prodName>
+		<prodNameTrim>Jumbo Print USB Keyboard,...</prodNameTrim>
+		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/img_7335-edit.jpg</prodImgUrl>
+		<prodDescription> Condition: Brand NewPackage: RetailModel: VT-01586Warranty: 1 Year  The  Total Vision XL Vision Jumbo Print Keyboard is a perfect solution for those  just learning to type and the visually impaired, allowing users to take  advantage of boldly printed keys for unhindered typing. If I&amp;#039;d only had this  keyboard, I may not have earned the golden chicken award at the corporate  carnival for fastest one-fingered typist (not an honor). This legible  keyboard easily connects to Macs as well as PCs using the attached USB cable.  Simply plug in and you&amp;#039;re ready to go! The plastic construction is spill  resistant, making Total Vision XL Vision Jumbo Print Keyboard an ideal  keyboard for children learning to type or adults that can&amp;#039;t handle their  coffee.  *Comes in yellow or green; colors chosen at random </prodDescription>
 		<prodCondition></prodCondition>
-		<prodPrice>$6.99</prodPrice>
+		<prodPrice>$10.99</prodPrice>
 		<prodShipping>$5.00</prodShipping>
 		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
 		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals2.jpg</prodDealImg>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=3.5”+LCD+Digital+Picture+Frame+for+Desk+or+Wall%26x=0%26y=0</prodZonLink>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Jumbo+Print+USB+Keyboard,+PC+%26+Mac+Compatible%26x=0%26y=0</prodZonLink>
 	</justDeals2>
 	<justDeals3>
 		<siteName>JustDeals 3</siteName>
-		<siteUrl>justdeals.com</siteUrl>
-		<siteSpecial></siteSpecial>
-		<prodName>Visioneer Xerox Travel Scanner 100 Mobile 600dpi USB Powered</prodName>
-		<prodNameTrim>Visioneer Xerox Travel Sc...</prodNameTrim>
-		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/visioneer-xerox-scanner.jpg</prodImgUrl>
-		<prodDescription> Condition: RefurbishedPackage: RetailModel: XTRAVEL-SCANWarranty: 90 Days   Business won&amp;#039;t wait for you, so chase it down and capture it in full detail  with the Visioneer Xerox Travel Scanner 100 Mobile 600dpi USB Handheld  Scanner. Whether you need to snag a business card, save a receipt, or capture  the fine print of an important document, this travel scanner allows you to  copy every nuance with precise 600dpi resolution. No more misplacing  important phone numbers or receipts as this scanner uses any easy system of  PDF documents for convenient search and retrieval. One of the most endearing  aspects of the Visioneer Xerox Travel Scanner is the comprehensive, dynamic  software package that includes Visioneer OneTouch Technology, OmniPage Pro,  and NewSoft Presto! BizCard. With this software package, you can streamline  your scanner settings for efficient scans set to your personal standards,  transfer your document to editable text files, and organize your business  contacts based on card scans. Clean up your documents with a myriad of  editing features including AutoLaunch, Auto-crop, Auto-straighten, and  Auto-brightness. The Xerox Travel Scanner won&amp;#039;t weigh you down when you&amp;#039;re on  the run, weighing in at a mere 10.6oz. You won&amp;#039;t have to be chained down by  external energy support as this handy scanner is fully powered by USB. Ensure  you&amp;#039;ll never misplace another receipt, never lose another phone number, and  never miss another detail by investing in the Visioneer Xerox Travel Scanner  100 Mobile 600dpi USB Handheld Scanner! </prodDescription>
-		<prodCondition></prodCondition>
-		<prodPrice>$49.99</prodPrice>
-		<prodShipping>$5.00</prodShipping>
-		<prodSoldOut></prodSoldOut>
-		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals3.jpg</prodDealImg>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Visioneer+Xerox+Travel+Scanner+100+Mobile+600dpi+USB+Powered%26x=0%26y=0</prodZonLink>
-	</justDeals3>
-	<justDeals4>
-		<siteName>JustDeals 4</siteName>
 		<siteUrl>justdeals.com</siteUrl>
 		<siteSpecial></siteSpecial>
 		<prodName>Bluetooth T9 Old School Retro Style Handset - 5 Colors</prodName>
@@ -331,8 +315,24 @@ Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeal
 		<prodShipping>$5.00</prodShipping>
 		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals4.jpg</prodDealImg>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals3.jpg</prodDealImg>
 		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Bluetooth+T9+Old+School+Retro+Style+Handset+-+5+Colors%26x=0%26y=0</prodZonLink>
+	</justDeals3>
+	<justDeals4>
+		<siteName>JustDeals 4</siteName>
+		<siteUrl>justdeals.com</siteUrl>
+		<siteSpecial></siteSpecial>
+		<prodName>3.5” LCD Digital Picture Frame for Desk or Wall</prodName>
+		<prodNameTrim>3.5” LCD Digital Pictur...</prodNameTrim>
+		<prodImgUrl>http://www.justdeals.com/sites/www.justdeals.com/files/products/3.5_lcd_digital_picture_frame_c_-_360_x_360.jpg</prodImgUrl>
+		<prodDescription> Condition: Brand New Package: Retail Warranty: 1 year  Light up your day,  literally and figuratively, with this 3.5&amp;quot; LCD Digital Picture Frame from  Optimus, ideal for desk and wall alike! Change your photos with your moods by  simply plugging your SD card into the 4 in 1 slot at the side of the frame.  The easy-to-use push button controls allow you to scroll through your photos  as well as rotate images for a stronger visual aesthetic. Too many amazing  pictures to settle on just one for the day? The slideshow feature keeps your  favorite images in rotation for unique, ever-shifting decor. It definitely  beats rearranging your furniture every 30 seconds. The perfect image, whether  it be of your family or a cat with its head stuck in a box, is sure to  brighten your day and you have no brighter option than this 3.5&amp;quot; LCD Digital  Picture Frame.  *Choose from Black, Red, or Pink </prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$6.99</prodPrice>
+		<prodShipping>$5.00</prodShipping>
+		<prodSoldOut></prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodDealImg>http://cdn.frostydeals.com/deal-images/justdeals4.jpg</prodDealImg>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=3.5”+LCD+Digital+Picture+Frame+for+Desk+or+Wall%26x=0%26y=0</prodZonLink>
 	</justDeals4>
 </justDeals>
 <dailySteals>
