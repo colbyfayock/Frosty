@@ -1,4 +1,4 @@
-<?php
+	<?php
 $sites = array();
 
 $siteTags = array(
@@ -52,7 +52,7 @@ function wootScrape(){
 
 	foreach($woot as $k1 => &$v1){
 		$v1 = $siteTags;
-		
+
 		if(substr($k1, 4)){
 			$v1['siteName'] = strtolower(substr($k1, 4)) . ".woot!";
 			$v1['siteUrl'] = strtolower(substr($k1, 4)) . ".woot.com";
@@ -60,22 +60,22 @@ function wootScrape(){
 			$v1['siteName'] = "woot!";
 			$v1['siteUrl'] = "www.woot.com";
 		}
-		
+
 		$v1['prodDealImg'] = $v1['siteName'] . ".jpg";
-		
+
 		$wootRSS = file_get_contents($wootApi . $v1['siteUrl']);
-		
+
 		foreach($patternWoot as $kk1 => &$vv1){
 			preg_match_all($vv1, $wootRSS, $matches1);
 			$v1[$kk1]  = $matches1[1][0];
 		}
-		
+
 		$v1['prodSoldOutPercent'] = $v1['prodSoldOutPercent']/100;
-		
+
 		$v1['prodShipping'] = explode(" ", $v1['prodShipping']);
 		$v1['prodShipping'] = $v1['prodShipping'][0];
 	}
-	
+
 	return $woot;
 }
 $sites['woot'] = wootScrape();
@@ -137,7 +137,7 @@ function midnightBoxScrape(){
 	foreach($midnightBox as $kkk2 => &$vvv2){
 		$vvv2['prodPrice'] = "$" . $vvv2['prodPrice'];
 	}
-	
+
 	return $midnightBox;
 }
 if(midnightBoxScrape()){
@@ -149,7 +149,7 @@ if(midnightBoxScrape()){
 /* Yugster */
 function yugsterScrape(){
 	global $siteTags;
-	
+
 	$yugster = array(
 		'yugsterDailyOffer' => array(),
 		'yugsterYoursUntilGone' => array(),
@@ -175,9 +175,9 @@ function yugsterScrape(){
 		$v3['siteSpecial'] = false;
 		$v3['prodImgUrl'] = "http://yugster.com";
 		$v3['prodDealImg'] = strtolower($k3) . ".jpg";
-		
+
 		$yugsterSite = file_get_contents("http://" . $v3['siteUrl']);
-		
+
 		foreach($patternYugster as $kk3 => &$vv3){
 			preg_match_all($vv3, $yugsterSite, $matches);
 			$v3[$kk3] = $v3[$kk3].$matches[1][0];
@@ -185,10 +185,10 @@ function yugsterScrape(){
 		if($v3['prodShipping'] == "FREE!") {
 			$v3['prodShipping'] = "Free";
 		}
-		
+
 		$v3['prodSoldOutPercent'] = 1-(($v3['prodSoldOutPercent'])/86400);
 	}
-	
+
 	return $yugster;
 }
 $sites['yugster'] = yugsterScrape();
@@ -217,15 +217,15 @@ function oneSaleADayScrape(){
 	);
 
 
-	$saleADayRSS = file_get_contents("http://1saleaday.com/rss_feedburner.asp");		
+	$saleADayRSS = file_get_contents("http://1saleaday.com/rss_feedburner.asp");
 
 	foreach($oneSaleADay as $k4 => &$v4){
 		$v4 = $siteTags;
-		
+
 		if(substr($k4, 11)){
 			$v4['siteName'] = "1 Sale A Day - " . substr($k4, 11);
-			$v4['siteUrl'] = "http://www.1saleaday.com/" . strtolower(substr($k4, 11)) . "/";	
-			$v4['prodDealImg'] = "1saleaday-" . strtolower(substr($k4, 11)) . ".jpg";		
+			$v4['siteUrl'] = "http://www.1saleaday.com/" . strtolower(substr($k4, 11)) . "/";
+			$v4['prodDealImg'] = "1saleaday-" . strtolower(substr($k4, 11)) . ".jpg";
 		} else{
 			$v4['siteName'] = "1 Sale A Day";
 			$v4['siteUrl'] = "http://www.1saleaday.com/";
@@ -235,7 +235,7 @@ function oneSaleADayScrape(){
 		$v4['prodShipping'] = "$4.99";
 		$v4['prodSoldOut'] = false;
 		$v4['prodSoldOutPercent'] = 0;
-		
+
 		$saleADaySite = file_get_contents($v4['siteUrl']);
 		foreach($patternSaleADay as $kk4 => $vv4){
 			preg_match_all($vv4, $saleADaySite, $matches);
@@ -250,8 +250,8 @@ function oneSaleADayScrape(){
 	$oneSaleADay['oneSaleADayWireless']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173477&amp;AFID=206138&amp;ADID=579857";
 	$oneSaleADay['oneSaleADayWatch']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173478&amp;AFID=206138&amp;ADID=579846";
 	$oneSaleADay['oneSaleADayFamily']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173476&amp;AFID=206138&amp;ADID=579823";
-	$oneSaleADay['oneSaleADayJewelry']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173481&amp;AFID=206138&amp;ADID=579835";	
-	
+	$oneSaleADay['oneSaleADayJewelry']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173481&amp;AFID=206138&amp;ADID=579835";
+
 	return $oneSaleADay;
 }
 $sites['oneSaleADay'] = oneSaleADayScrape();
@@ -262,18 +262,18 @@ $sites['oneSaleADay'] = oneSaleADayScrape();
 
 function justDealsScrape(){
 	global $siteTags;
-	
+
 	$justDeals = array();
 
 	$justDealsRSS = file_get_contents('https://mypoints.justdeals.com/ads/affiliates/productfeed.xml');
-	
+
 	preg_match_all('/<active>(.*)<\/active>/', $justDealsRSS, $matches);
-		
+
 	for($i = 0; $i < intval($matches[1][0]); $i++){
 		$deal = 'justDeals' . ($i+1);
 		$justDeals[$deal] = array();
 	}
-	
+
 	$patternJustDeals = array(
 		'prodName' => '/<Product_Name><\!\[CDATA\[(.*)\]\]><\/Product_Name>/',
 		'prodImgUrl' => '/<Large_Image_URL>(.*)<\/Large_Image_URL>/',
@@ -282,10 +282,10 @@ function justDealsScrape(){
 		'prodPrice' => '/<Sale_Price>(.*)<\/Sale_Price>/'
 		// 'prodSoldOutPercent' => '//'
 	);
-	
+
 	foreach($justDeals as $k1 => &$v1){
 		$v1 = $siteTags;
-		
+
 		$v1['siteName'] = "JustDeals " . substr($k1, 9);
 		$v1['siteUrl'] = "justdeals.com";
 		$v1['prodShipping'] = "$5.00";
@@ -298,7 +298,7 @@ function justDealsScrape(){
 		*/
 		$v1['prodDealImg'] = strtolower($k1) . ".jpg";
 	}
-	
+
 	foreach($patternJustDeals as $k2 => &$v2){
 		preg_match_all($v2, $justDealsRSS, $matches1);
 		$matches1 = $matches1[1];
@@ -307,13 +307,13 @@ function justDealsScrape(){
 			$justDeals[$name][$k2] = $matches1[$j];
 		}
 	}
-	
+
 	foreach($justDeals as $k3 => &$v3){
 		$v3['prodPrice'] = "$" . round($v3['prodPrice'], 2);
 	}
-	
+
 	return $justDeals;
-	
+
 }
 $sites['justDeals'] = justDealsScrape();
 
@@ -323,15 +323,15 @@ $sites['justDeals'] = justDealsScrape();
 
 function dailyStealsScrape(){
 	global $siteTags;
-	
+
 	$dailySteals = array(
 		'dailyStealsMain' => array(),
 		'dailyStealsMobile' => array(),
 		'dailyStealsHome' => array(),
-		'dailyStealsToys' => array(),
+		// 'dailyStealsToys' => array(),
 		'dailyStealsLastCall' => array()
 	);
-	
+
 	$patternDailySteals = array(
 		'prodName' => '/details">[\s]+<h2>(.*)<\/h2>/',
 		'prodImgUrl' => '/productimage" href="(.*)">/',
@@ -339,17 +339,17 @@ function dailyStealsScrape(){
 		//'prodDescription' => '//',
 		//'prodSoldOutPercent' => '//'
 	);
-	
+
 	foreach($dailySteals as $k => &$v){
 		$v = $siteTags;
-		
+
 		if(substr($k, 11) == "Main"){
 			$dailyStealsRSS = "http://dailysteals.com";
 		} else{
 			$dailyStealsRSS = "http://" . strtolower(substr($k, 11)) . ".dailysteals.com";
 		}
 		$dailyStealsRSS = file_get_contents($dailyStealsRSS);
-				
+
 		if(substr($k, 11) == "LastCall"){
 			$v['siteName'] = "Daily Steals Last Call";
 		} else{
@@ -361,14 +361,14 @@ function dailyStealsScrape(){
 		$v['prodShipping'] = "$4.99";
 		$v['prodSoldOut'] = false;
 		$v['prodSoldOutPercent'] = 0;
-		
+
 		foreach($patternDailySteals as $k1 => &$v1){
 			preg_match_all($v1, $dailyStealsRSS, $matches1);
 			$v[$k1] = $matches1[1][0];
 		}
 	}
-	
-	return $dailySteals;	
+
+	return $dailySteals;
 }
 $sites['dailySteals'] = dailyStealsScrape();
 
@@ -390,21 +390,21 @@ foreach($sites as $k => &$v){
 		} else{
 			$v1['prodNameTrim'] = $v1['prodName'];
 		}
-		
+
 		$v1['prodSoldOutPercent'] = 100-($v1['prodSoldOutPercent']*100);
-		
+
 		$v1['prodZonLink'] = $v1['prodName'];
 		$v1['prodZonLink'] = str_replace(" ", "+", $v1['prodZonLink']);
 		$v1['prodZonLink'] = str_replace("&", "%26", $v1['prodZonLink']);
 		$v1['prodZonLink'] = str_replace("amp;", "", $v1['prodZonLink']);
 		$v1['prodZonLink'] = "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=" . $v1['prodZonLink'] . "%26x=0%26y=0";
-		
+
 		if( empty($v1['prodName']) || empty($v1['prodImgUrl']) ){
 			unset($v[$k1]);
 		}
-		
+
 		$v1['prodDealImg'] = "http://cdn.frostydeals.com/deal-images/" . $v1['prodDealImg'];
-		
+
 		$siteNameTrim = strtolower(preg_replace( '/\s+/', '', $v1['siteName'] ));
 		file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/'.$siteNameTrim.'.jpg', file_get_contents($v1['prodImgUrl']));
 	}

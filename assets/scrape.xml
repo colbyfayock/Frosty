@@ -1,9 +1,3 @@
-
-Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeals.com/woop/wp-content/themes/frosty/assets/scrapeCron.php on line 409
-
-Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeals.com/woop/wp-content/themes/frosty/assets/scrapeCron.php on line 409
-
-Warning: file_get_contents(): Filename cannot be empty in /home/colbz/frostydeals.com/woop/wp-content/themes/frosty/assets/scrapeCron.php on line 409
 <?xml version="1.0"  encoding="UTF-8" ?>
 <sites><woot>
 	<woot>

@@ -1,6 +1,6 @@
 <?php
 function scrapeDeals(){
-	
+
 	function xml2array($xml)
 	{
 		$arr = array();
@@ -19,10 +19,10 @@ function scrapeDeals(){
 		}
 		return $arr;
 	}
-	
-	$file = simplexml_load_file('http://frostydeals.com/woop/wp-content/themes/frosty/assets/scrape.xml');
+
+	$file = simplexml_load_file('wp-content/themes/frosty/assets/scrape.xml');
 	$sites = xml2array($file);
-	
+
 	foreach($sites as $k => $v){
 		$sites[$k] = $sites[$k][0];
 		foreach($sites[$k] as $k1 => $v1){
