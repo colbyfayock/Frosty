@@ -1,5 +1,8 @@
-	<?php
+<?php
 $sites = array();
+$faydev = false;
+$faycdnlink = empty($faydev) ? '/home/colbz/' : '../../../../../';
+$faydevlink = empty($faydev) ? '/home/colbz/' : '../';
 
 $siteTags = array(
 	'siteName' => '',
@@ -67,7 +70,7 @@ function wootScrape(){
 
 		foreach($patternWoot as $kk1 => &$vv1){
 			preg_match_all($vv1, $wootRSS, $matches1);
-			$v1[$kk1]  = $matches1[1][0];
+			$v1[$kk1]  = isset($matches1[1][0]) ? $matches1[1][0] : false;
 		}
 
 		$v1['prodSoldOutPercent'] = $v1['prodSoldOutPercent']/100;
@@ -180,7 +183,7 @@ function yugsterScrape(){
 
 		foreach($patternYugster as $kk3 => &$vv3){
 			preg_match_all($vv3, $yugsterSite, $matches);
-			$v3[$kk3] = $v3[$kk3].$matches[1][0];
+			$v3[$kk3] = $v3[$kk3] . (isset($matches[1][0]) ? $matches[1][0] : false);
 		}
 		if($v3['prodShipping'] == "FREE!") {
 			$v3['prodShipping'] = "Free";
@@ -201,11 +204,11 @@ function oneSaleADayScrape(){
 	global $siteTags;
 
 	$oneSaleADay = array(
-		'oneSaleADay' => array(),
+		// 'oneSaleADay' => array(),
 		'oneSaleADayWireless' => array(),
-		'oneSaleADayWatch' => array(),
+		// 'oneSaleADayWatch' => array(),
 		'oneSaleADayFamily' => array(),
-		'oneSaleADayJewelry' => array()
+		// 'oneSaleADayJewelry' => array()
 	);
 
 	$patternSaleADay = array(
@@ -239,18 +242,18 @@ function oneSaleADayScrape(){
 		$saleADaySite = file_get_contents($v4['siteUrl']);
 		foreach($patternSaleADay as $kk4 => $vv4){
 			preg_match_all($vv4, $saleADaySite, $matches);
-			$v4[$kk4] = $matches[1][0];
+			$v4[$kk4] = (isset($matches[1][0]) ? $matches[1][0] : false);
 		}
 		preg_match_all($patternSaleADay['prodCondition'], $saleADaySite, $matches1);
-		$v4['prodCondition'] = ucwords(strtolower(trim($matches1[2][0])));
+		$v4['prodCondition'] = isset($matches[2][0]) ? ucwords(strtolower(trim($matches[2][0]))) : false;
 		$v4['prodSoldOutPercent'] = round((date('g.i')/24), 2);
 	}
 
-	$oneSaleADay['oneSaleADay']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=168142&amp;AFID=206138&amp;ADID=579788";
+	// $oneSaleADay['oneSaleADay']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=168142&amp;AFID=206138&amp;ADID=579788";
 	$oneSaleADay['oneSaleADayWireless']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173477&amp;AFID=206138&amp;ADID=579857";
-	$oneSaleADay['oneSaleADayWatch']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173478&amp;AFID=206138&amp;ADID=579846";
+	// $oneSaleADay['oneSaleADayWatch']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173478&amp;AFID=206138&amp;ADID=579846";
 	$oneSaleADay['oneSaleADayFamily']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173476&amp;AFID=206138&amp;ADID=579823";
-	$oneSaleADay['oneSaleADayJewelry']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173481&amp;AFID=206138&amp;ADID=579835";
+	// $oneSaleADay['oneSaleADayJewelry']['siteUrl'] = "www.ocsadtrack.com/click.track?CID=173481&amp;AFID=206138&amp;ADID=579835";
 
 	return $oneSaleADay;
 }
@@ -265,7 +268,7 @@ function justDealsScrape(){
 
 	$justDeals = array();
 
-	$justDealsRSS = file_get_contents('https://mypoints.justdeals.com/ads/affiliates/productfeed.xml');
+	$justDealsRSS = file_get_contents('http://mypoints.justdeals.com/ads/affiliates/productfeed.xml');
 
 	preg_match_all('/<active>(.*)<\/active>/', $justDealsRSS, $matches);
 
@@ -406,7 +409,7 @@ foreach($sites as $k => &$v){
 		$v1['prodDealImg'] = "http://cdn.frostydeals.com/deal-images/" . $v1['prodDealImg'];
 
 		$siteNameTrim = strtolower(preg_replace( '/\s+/', '', $v1['siteName'] ));
-		file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/'.$siteNameTrim.'.jpg', file_get_contents($v1['prodImgUrl']));
+		file_put_contents($faycdnlink . 'cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg', file_get_contents($v1['prodImgUrl']));
 	}
 }
 
@@ -426,7 +429,7 @@ foreach($sites as $key => $variable){
 echo "</sites>";
 
 flush();
-$scrape = "/home/colbz/frostydeals.com/woop/wp-content/themes/frosty/assets/scrape.temp";
-$file  = "/home/colbz/frostydeals.com/woop/wp-content/themes/frosty/assets/scrape.xml";
+$scrape = $faydevlink . "frostydeals.com/woop/wp-content/themes/frosty/assets/scrape.temp";
+$file  = $faydevlink . "frostydeals.com/woop/wp-content/themes/frosty/assets/scrape.xml";
 rename($scrape, $file);
 ?>
