@@ -2,13 +2,13 @@
 function callDeals($theSite, $theSiteKey){
 
 	foreach($theSite as $k => $v){
-	
+
 	$panelState = "panel " . $theSiteKey . " " . $k;
-	
+
 	if($v['siteSpecial'] == "true"){
 		$panelState = $panelState . " special";
 	}
-	
+
 	if($v['prodSoldOutPercent'] == 0){
 		if($v['siteSpecial'] == "false"){
 			$panelState = $panelState . " sold-out";
@@ -30,7 +30,7 @@ function callDeals($theSite, $theSiteKey){
 	}
 
 	?>
-	
+
 	<div class="panel">
 		<ul>
 			<li class="product-name">
@@ -56,7 +56,7 @@ function callDeals($theSite, $theSiteKey){
 			</li>
 			<li class="site-image">
 				<a href="http://<?= $v['siteUrl']; ?>" title="Go to <?= $v['siteName']; ?>">
-					<img src="" alt="<?= $v['siteName']; ?> Logo">
+					<img src="<?= $v['siteLogo']; ?>" alt="<?= $v['siteName']; ?> Logo">
 				</a>
 			</li>
 			<li class="product-price">

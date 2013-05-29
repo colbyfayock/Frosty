@@ -177,7 +177,7 @@ p{
 /* Deals */
 .panel{
 	width:23%;
-	background-color: #F2F2F2; 
+	background-color: #F2F2F2;
 	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fafafa), to(#f2f2f2));
 	background-image: -webkit-linear-gradient(top, #fafafa, #f2f2f2);
 	background-image: -moz-linear-gradient(top, #fafafa, #f2f2f2);
@@ -233,7 +233,7 @@ p{
 	-webkit-border-radius:.5em 0 0 0;
 	-khtml-border-radius:.5em 0 0 0;
 	border-left:solid 1px #11192a;
-	
+
 }
 .share-button{
 	width:20%;
@@ -278,20 +278,24 @@ p{
 	width:100%;
 	border:solid 1px #ddd;
 }
-	
+
 .site-image, .product-price{
 	height:3em;
 	border-bottom:solid 1px #ddd;
 	float:left;
 }
 .site-image{
-	width:60%;
+	width: 60%;
 	padding-left:.5em;
 	border-radius:0 0 0 .5em;
 	-moz-border-radius:0 0 0 .5em;
 	-webkit-border-radius:0 0 0 .5em;
 	-khtml-border-radius:0 0 0 .5em;
 	border-left:solid 1px #ddd;
+}
+.site-image img {
+	max-width: 100%;
+	max-height: 36px;
 }
 .product-price{
 	width:40%;

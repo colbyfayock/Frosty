@@ -8,6 +8,7 @@ $siteTags = array(
 	'siteName' => '',
 	'siteUrl' => '',
 	'siteSpecial' => '',
+	'siteLogo' => 'wp-content/themes/frosty/images/',
 	'prodName' => '',
 	'prodNameTrim' => '',
 	'prodImgUrl' => '',
@@ -59,9 +60,11 @@ function wootScrape(){
 		if(substr($k1, 4)){
 			$v1['siteName'] = strtolower(substr($k1, 4)) . ".woot!";
 			$v1['siteUrl'] = strtolower(substr($k1, 4)) . ".woot.com";
+			$v1['siteLogo'] .= 'woot-' . strtolower(substr($k1, 4)) . '.png';
 		} else {
 			$v1['siteName'] = "woot!";
 			$v1['siteUrl'] = "www.woot.com";
+			$v1['siteLogo'] .= 'woot.png';
 		}
 
 		$v1['prodDealImg'] = $v1['siteName'] . ".jpg";
@@ -115,6 +118,7 @@ function midnightBoxScrape(){
 		$v2 = $siteTags;
 		$v2['siteName'] = "MidnightBox " . substr($k2, 11);
 		$v2['siteUrl'] = "affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d" . (substr($k2, 11)-1);
+		$v1['siteLogo'] .= 'midnightbox.png';
 		$v2['siteSpecial'] = false;
 		$v2['prodSoldOut'] = false;
 		$v2['prodDealImg'] = strtolower($k2) . ".jpg";
@@ -175,6 +179,7 @@ function yugsterScrape(){
 		$v3 = $siteTags;
 		$v3['siteName'] = ucfirst(preg_replace('/(?<!\ )[A-Z]/', ' $0', $k3));
 		$v3['siteUrl'] = "yugster.com/todays-deals/" . substr(strtolower(preg_replace('/(?<!\ )[A-Z]/', '-$0', $k3)), 8);
+		$v1['siteLogo'] .= 'yugster.png';
 		$v3['siteSpecial'] = false;
 		$v3['prodImgUrl'] = "http://yugster.com";
 		$v3['prodDealImg'] = strtolower($k3) . ".jpg";
@@ -234,6 +239,7 @@ function oneSaleADayScrape(){
 			$v4['siteUrl'] = "http://www.1saleaday.com/";
 			$v4['prodDealImg'] = "1saleaday.jpg";
 		}
+		$v1['siteLogo'] .= '1saleaday.png';
 		$v4['siteSpecial'] = false;
 		$v4['prodShipping'] = "$4.99";
 		$v4['prodSoldOut'] = false;
@@ -291,6 +297,7 @@ function justDealsScrape(){
 
 		$v1['siteName'] = "JustDeals " . substr($k1, 9);
 		$v1['siteUrl'] = "justdeals.com";
+		$v1['siteLogo'] = false;
 		$v1['prodShipping'] = "$5.00";
 		$v1['siteSpecial'] = false;
 		/* if( == 0){
