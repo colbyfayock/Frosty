@@ -43,12 +43,12 @@ class MidnightBox extends Site {
 
 		foreach($this->pattern1 as $tagKey => $tagArray){
 			preg_match_all($tagArray, $rss, $matches);
-			$this->data[$tagKey] = isset($matches[1][0]) ? $matches[1][0] : false;
+			$this->data[$tagKey] = isset($matches[1][$this->midnightUrl]) ? $matches[1][$this->midnightUrl] : false;
 		}
 
 		foreach($this->pattern2 as $tagKey => $tagArray){
 			preg_match_all($tagArray, $site, $matches);
-			$this->data[$tagKey] = isset($matches[1][0]) ? $matches[1][0] : false;
+			$this->data[$tagKey] = isset($matches[1][$this->midnightUrl]) ? $matches[1][$this->midnightUrl] : false;
 		}
 
 		$vvv2['prodPrice'] = "$" . $vvv2['prodPrice'];
