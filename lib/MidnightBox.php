@@ -51,14 +51,21 @@ class MidnightBox extends Site {
 			$this->data[$tagKey] = isset($matches[1][$this->midnightUrl]) ? $matches[1][$this->midnightUrl] : false;
 		}
 
-		$vvv2['prodPrice'] = "$" . $vvv2['prodPrice'];
+		$this->data['prodPrice'] = "$" . $this->data['prodPrice'];
 		$this->data['prodSoldOutPercent'] = round($this->data['prodSoldOutPercent']/100, 2);
 
 	}
 
-	function getMidnight() {
+	function getSite() {
 
 		$this->addData();
+
+		$this->data = parent::cleanStrings($this->data);
+
+		$siteNameTrim = strtolower(preg_replace( '/\s+/', '', $this->data['siteName'] ));
+		if(md5_file('/home/colbz/cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg') !== md5_file($this->data['prodImgUrl'])) {
+			file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg', file_get_contents($this->data['prodImgUrl']));
+		}
 
 		return $this->data;
 	}

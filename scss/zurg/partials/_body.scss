@@ -1,0 +1,29 @@
+.content {
+    background-color: $zurg-color-body;
+}
+
+.body {
+    margin: 0 auto;
+    & > .row {
+    	padding: 0;
+    }
+}
+
+.row .center-head {
+    margin-bottom: 2.5em;
+    h1, h2, h3, h4, h5, h6 {
+        display: block;
+        text-align: center;
+    }
+}
+
+// @include breakpoint($grid-page-width - 400px) {
+// 	.body > .row {
+// 		& > .twocol {
+// 			width: 22.05%;
+// 		}
+// 		& > .eightcol {
+// 			width: 48%;
+// 		}
+// 	}
+// }

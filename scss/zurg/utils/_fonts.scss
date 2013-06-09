@@ -1,0 +1,28 @@
+// Typefaces
+
+@import url(http://fonts.googleapis.com/css?family=Lemon);
+
+// Icons
+
+@include font-face(icomoon, #{$fonts_path}/icomoon/icomoon);
+
+.icon[data-icon]:before,
+.icon[data-icon-after]:after { font-family: 'icomoon' }
+
+.icon {
+    position: relative;
+    @include inline-block;
+    color: inherit;
+    text-align: center;
+    font-style: normal;
+    &[data-icon]:before, &[data-icon-after]:after {
+        -webkit-font-smoothing: antialiased;
+        speak: none;
+    }
+    &[data-icon]:before {
+        content: attr(data-icon);
+    }
+    &[data-icon-after]:after {
+        content: attr(data-icon-after);
+    }
+}

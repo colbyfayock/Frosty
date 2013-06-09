@@ -1,0 +1,37 @@
+.deals-main {
+	.sort {
+		padding-bottom: 1em;
+	}
+	.panels {
+		text-align: justify;
+	}
+	article {
+		width: 15%;
+		@include inline-block;
+		vertical-align: top;
+		margin-bottom: 2%;
+		&.break {
+			margin-bottom: 0;
+		}
+		a {
+			display: block;
+			cursor: -moz-zoom-in;
+			cursor: -webkit-zoom-in;
+			cursor: zoom-in;
+		}
+	}
+}
+
+.deal-info {
+	width:50%;
+	color: $grey5;
+	background-color: $grey1;
+	padding: 1em;
+	margin: 0 auto;
+	h3 {
+		color: $lblue;
+	}
+	.deal-info-image img {
+		width: 100%;
+	}
+}

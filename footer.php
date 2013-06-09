@@ -1,15 +1,13 @@
-<?php
-	wp_footer();
-	
-	if(is_front_page()){
-		?>
-			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-			<script src="<?=auto_version('/home/colbz/cdn.frostydeals.com/js/scripts-main.js')?>" type="text/javascript"></script>
-		<?php
-	}
-?>
-
-
-</body>
-
-</html>
+<footer class="container footer">
+    <div class="row">
+        <div class="sixcol">
+            <ul>
+            </ul>
+        </div>
+        <div class="sixcol last">
+            <ul>
+                <li>&copy; <?=date("Y")?> <a href="<?=home_url()?>">Frosty Deals</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>

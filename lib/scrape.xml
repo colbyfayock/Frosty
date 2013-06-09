@@ -1,0 +1,279 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<sites>
+<woot>
+	<woot>
+		<siteName>Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Hisense 46&amp;quot; 1080p LED HDTV</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/dc263812-1e63-48a9-9640-2a8802b98b31.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>Refurbished</prodCondition>
+		<prodPrice>$379.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Hisense 46&amp;quot; 1080p LE...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Hisense+46%26quot;+1080p+LED+HDTV%26x=0%26y=0</prodZonLink>
+	</woot>
+	<accessories>
+		<siteName>Accessories.woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/accessories.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>accessories.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Clinique Happy Fragrance: His or Hers</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5fffd60d-90f0-4ae1-86a2-749346eba9ff.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$39.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Clinique Happy Fragrance:...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Clinique+Happy+Fragrance:+His+or+Hers%26x=0%26y=0</prodZonLink>
+	</accessories>
+	<tech>
+		<siteName>Tech.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/tech.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>tech.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Hannspree 28&amp;quot; 1080p LCD HDTV</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/f3a08d08-79c0-4590-9033-92fd14311ccc.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$179.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Hannspree 28&amp;quot; 1080p ...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Hannspree+28%26quot;+1080p+LCD+HDTV%26x=0%26y=0</prodZonLink>
+	</tech>
+	<home>
+		<siteName>Home.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/home.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>home.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Westinghouse Flameless Candle Lantern 4PK (4 Styles)</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/ac1c3435-3f31-47de-b890-69ae3c66fa6c.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$24.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Westinghouse Flameless Ca...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Westinghouse+Flameless+Candle+Lantern+4PK+(4+Styles)%26x=0%26y=0</prodZonLink>
+	</home>
+	<tools>
+		<siteName>Tools.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/tools.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>tools.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>10x8 Storage Shed w/ Skylight &amp;amp; Floor Kit</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/1e6b42ed-5d22-40b2-9cc9-1a71e5f1d940.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$439.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>10x8 Storage Shed w/ Skyl...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=10x8+Storage+Shed+w/+Skylight+%26+Floor+Kit%26x=0%26y=0</prodZonLink>
+	</tools>
+	<sport>
+		<siteName>Sport.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/sport.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>sport.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Goal Zero Bolt Rechargeable Flashlight</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/961293a4-9308-4d58-ba21-a1707a3d5758.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$19.99</prodPrice>
+		<prodShipping>$5 Standard OR $9 Two-Day OR $12 One-Day</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Goal Zero Bolt Rechargeab...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Goal+Zero+Bolt+Rechargeable+Flashlight%26x=0%26y=0</prodZonLink>
+	</sport>
+	<kids>
+		<siteName>Kids.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/kids.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>kids.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Disney Baby Cars Bouncer</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/6a1bb7f5-4db0-48c5-89e1-413901f4c48b.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$24.99</prodPrice>
+		<prodShipping>$5 Standard OR $10 Two-Day OR $14 One-Day</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Disney Baby Cars Bouncer</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Disney+Baby+Cars+Bouncer%26x=0%26y=0</prodZonLink>
+	</kids>
+	<shirt>
+		<siteName>Shirt.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/shirt.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>shirt.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Elemental Model of the Universe</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/551dac28-c991-44d8-9560-ef9fd7b4bb99.png</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$12.00</prodPrice>
+		<prodShipping>Free OR $5 One-Day OR $5 Standard International</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Elemental Model of the Un...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Elemental+Model+of+the+Universe%26x=0%26y=0</prodZonLink>
+	</shirt>
+	<wine>
+		<siteName>Wine.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/wine.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>wine.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>R. Merlo Trinity County Pinot Noir (4)</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/377877a9-a5d1-44e5-ac7f-0e35d44c8949.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$63.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>R. Merlo Trinity County P...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=R.+Merlo+Trinity+County+Pinot+Noir+(4)%26x=0%26y=0</prodZonLink>
+	</wine>
+	<sellout>
+		<siteName>Sellout.Woot</siteName>
+		<siteUrl>http://api.woot.com/1/sales/current.rss/sellout.woot.com</siteUrl>
+		<siteLogo>woot.png</siteLogo>
+		<prodDealImg>sellout.woot.jpg</prodDealImg>
+		<siteSpecial>false</siteSpecial>
+		<prodName>Harman Kardon 5.1-Channel A/V Receiver</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5494dd9a-c919-47c0-8e6d-2adcd6b2e129.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$149.99</prodPrice>
+		<prodShipping>$5 Standard OR $20 Two-Day OR $24 One-Day</prodShipping>
+		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Harman Kardon 5.1-Channel...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Harman+Kardon+5.1-Channel+A/V+Receiver%26x=0%26y=0</prodZonLink>
+	</sellout>
+</woot>
+<midnight>
+	<midnight1>
+		<siteName>Midnight 1</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d0</siteUrl>
+		<siteLogo>midnightbox.png</siteLogo>
+		<prodDealImg>midnight1.jpg</prodDealImg>
+		<siteSpecial></siteSpecial>
+		<prodSoldOut></prodSoldOut>
+		<prodName>Stainless Steel Cleaning Soap</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054172-110.jpg</prodImgUrl>
+		<prodDescription>Miraculously removes any unwanted smells or odors from your hands after handling things such as onion, garlic, fish, cash, petrol, diesel, medicine etc.  Easy to use, just use this like a bar of common soap, rubbing it on your hands and soaking your hands in the water.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054172-110.jpg&quot;</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$4.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOutPercent>54</prodSoldOutPercent>
+		<prodNameTrim>Stainless Steel Cleaning ...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Stainless+Steel+Cleaning+Soap%26x=0%26y=0</prodZonLink>
+	</midnight1>
+	<midnight2>
+		<siteName>Midnight 2</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d1</siteUrl>
+		<siteLogo>midnightbox.png</siteLogo>
+		<prodDealImg>midnight2.jpg</prodDealImg>
+		<siteSpecial></siteSpecial>
+		<prodSoldOut></prodSoldOut>
+		<prodName>Lego Inspired RC Car - Choose From 3 Colors</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054165-110.jpg</prodImgUrl>
+		<prodDescription>The ergonomic curved design provides an optimum gaming experience.  Built-in battery extends your gaming time.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054170-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt2/10054170-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt3/10054170-110.jpg&quot;</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$15.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOutPercent>80</prodSoldOutPercent>
+		<prodNameTrim>Lego Inspired RC Car - Ch...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Lego+Inspired+RC+Car+-+Choose+From+3+Colors%26x=0%26y=0</prodZonLink>
+	</midnight2>
+	<midnight3>
+		<siteName>Midnight 3</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d2</siteUrl>
+		<siteLogo>midnightbox.png</siteLogo>
+		<prodDealImg>midnight3.jpg</prodDealImg>
+		<siteSpecial></siteSpecial>
+		<prodSoldOut></prodSoldOut>
+		<prodName>Game Controller for iPhone 5 with Built-in Battery Backup (Choose from White or Black)</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054170-110.jpg</prodImgUrl>
+		<prodDescription>This USB Travel Adapter has 4 interchangeable plugs (US, EU, AU, UK), can be used with most common power outlets in the world.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10053223-110.jpg&quot;</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$31.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOutPercent>100</prodSoldOutPercent>
+		<prodNameTrim>Game Controller for iPhon...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Game+Controller+for+iPhone+5+with+Built-in+Battery+Backup+(Choose+from+White+or+Black)%26x=0%26y=0</prodZonLink>
+	</midnight3>
+	<midnight4>
+		<siteName>Midnight 4</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d3</siteUrl>
+		<siteLogo>midnightbox.png</siteLogo>
+		<prodDealImg>midnight4.jpg</prodDealImg>
+		<siteSpecial></siteSpecial>
+		<prodSoldOut></prodSoldOut>
+		<prodName>4-Port USB Wall Socket with Interchangeable Travel Adapters</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10053223-110.jpg</prodImgUrl>
+		<prodDescription>Made of high quality silk - comfortable to wear.  Skull prints for a more unique and individual look.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054181-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt2/10054181-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt3/10054181-110.jpg&quot;</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$11.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOutPercent>96</prodSoldOutPercent>
+		<prodNameTrim>4-Port USB Wall Socket wi...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=4-Port+USB+Wall+Socket+with+Interchangeable+Travel+Adapters%26x=0%26y=0</prodZonLink>
+	</midnight4>
+	<midnight5>
+		<siteName>Midnight 5</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d4</siteUrl>
+		<siteLogo>midnightbox.png</siteLogo>
+		<prodDealImg>midnight5.jpg</prodDealImg>
+		<siteSpecial></siteSpecial>
+		<prodSoldOut></prodSoldOut>
+		<prodName>Authentic Silk Skull Shawl - Choose From 3 Unique Colors!</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054181-110.jpg</prodImgUrl>
+		<prodDescription>Mini size - convenient and simple to use indoors or outdoors.  Evaporative cooling technology - features a mini fan.</prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$30.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOutPercent>99</prodSoldOutPercent>
+		<prodNameTrim>Authentic Silk Skull Shaw...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Authentic+Silk+Skull+Shawl+-+Choose+From+3+Unique+Colors!%26x=0%26y=0</prodZonLink>
+	</midnight5>
+	<midnight6>
+		<siteName>Midnight 6</siteName>
+		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d5</siteUrl>
+		<siteLogo>midnightbox.png</siteLogo>
+		<prodDealImg>midnight6.jpg</prodDealImg>
+		<siteSpecial></siteSpecial>
+		<prodSoldOut></prodSoldOut>
+		<prodName>Mini USB Air Conditioning Fan - Choose From 3 Unique Colors</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054177-110.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$12.95</prodPrice>
+		<prodShipping>$3.99</prodShipping>
+		<prodSoldOutPercent>79</prodSoldOutPercent>
+		<prodNameTrim>Mini USB Air Conditioning...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Mini+USB+Air+Conditioning+Fan+-+Choose+From+3+Unique+Colors%26x=0%26y=0</prodZonLink>
+	</midnight6>
+</midnight>
+</sites>

@@ -1,0 +1,47 @@
+.sidebar {
+	h5 {
+		padding-bottom: .5em;
+		border-bottom: solid 1px $grey1;
+		margin-bottom: .75em;
+	}
+	ul {
+		padding-left: 0;
+	}
+	li {
+		list-style: none;
+	}
+	.button,
+	.button-primary,
+	.button-secondary,
+	input[type="text"] {
+		width: 100%;
+		text-align: center;
+		padding: .75em 0;
+	}
+}
+
+.link-list {
+	a {
+		display: block;
+		color: $grey3;
+		font-size: .8em;
+		text-decoration: none;
+		background-color: white;
+		padding: .5em;
+		&:hover {
+			background-color: $grey1;
+		}
+	}
+}
+
+.thumb-list {
+	a {
+		display: block;
+		@include clearfix;
+	}
+	img {
+		width: 20%;
+		margin-right: 5%;
+		float: left;
+	}
+}

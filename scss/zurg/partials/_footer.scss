@@ -1,0 +1,50 @@
+.footer {
+    color: white;
+    font-size: .9em;
+    background-zurg-color: $zurg-color-footer;
+    @if $zurg-flat == false {
+        @include background(linear-gradient(lighten($zurg-color-footer, 2), darken($zurg-color-footer, 2)) top repeat);
+    }
+    &.container {
+        padding: 1em 2em;
+    }
+    ul {
+        padding: 0;
+        margin: 0;
+    }
+    li {
+        display: block;
+        list-style: none;
+    }
+    p {
+        margin: 0 0 .5em;
+    }
+    a {
+        color: $zurg-color-footer-links;
+        text-decoration: none;
+        border: 0;
+        @include desktop() {
+            &:hover {
+               color: lighten($zurg-color-footer-links, 5);
+            }
+            &:active {
+               color: darken($zurg-color-footer-links, 5);
+            }
+        }
+    }
+    .footer-col-title {
+        display: block;
+        font-size: .9em;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: .5em;
+    }
+    .last {
+        text-align: right;
+    }
+    .footer-logo {
+       color: white;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+}

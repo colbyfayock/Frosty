@@ -1,43 +1,18 @@
-<?php
-	get_header();
-?>
+<?php if (have_posts()) : ?>
+    <?php while (have_posts()) : the_post(); ?>
 
-<div id="body">
-	<div id="content">
-		
-		<?php
-		
-		if (have_posts()) :
-			while(have_posts()) : the_post();
-		?>
-				<div class="post"  id="post-<?php the_ID(); ?>">
-															
-					<?php the_content(); ?>
-				
-				</div>
-			
-			<?php endwhile;
-			
-			next_posts_link('&laquo; Older Entries');
-			
-			previous_posts_link('Newer Entries &raquo;');
-			
-		else :
-			
-			echo '<h2>Nothing Found</h2>';
-		
-		endif;
-		
-		?>
-	</div>
-	
-	<?php
-		get_sidebar('feed');
-	?>
-	
-	<div class="clear"></div>
-</div>
+    <article <?php post_class() ?> id="post-<?php the_ID(); ?>">
+        <header>
+            <h1 class="h3"><?php the_title(); ?></h1>
+        </header>
+        <?php the_content(); ?>
+    </article>
 
-<?php
-	get_footer();
-?>
+    <?php endwhile; ?>
+
+    <nav class="clear">
+        <div class="older"><?php next_posts_link('Older') ?></div>
+        <div class="newer"><?php previous_posts_link('Newer') ?></div>
+    </nav>
+
+<?php endif; ?>

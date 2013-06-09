@@ -1,0 +1,124 @@
+%button-base {
+    @include inline-block;
+    color: white;
+    font-size: .8em;
+    font-weight: bold;
+    text-decoration: none;
+    padding: .5em 1em;
+    border-radius: .25em;
+    margin-top: .5em;
+    margin-bottom: 2em;
+    @if $zurg-flat == false or $zurg-almost-flat == true {
+        background-clip: padding-box;
+    }
+    @include desktop() {
+        &:hover:not(:disabled) {
+        	color: white;
+            cursor: pointer;
+        }
+        &:active:not(:disabled) {
+        	color: white;
+        }
+        &:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+    }
+    @include mobile() {
+    	width: 100%;
+    	height: 4em;
+    	line-height: 4em;
+    	text-align: center;
+    	padding: 0;
+    }
+}
+
+.button {
+    @extend %button-base;
+
+    color: white;
+    background-color: $zurg-grey3;
+    border: 1px solid darken($zurg-grey3, 5);
+
+    @if $zurg-flat == false or $zurg-almost-flat == true {
+        text-shadow: 0 1px 0 darken($zurg-grey3, 15);
+        @include background(linear-gradient(lighten($zurg-grey3, 3), darken($zurg-grey3, 3)) top repeat);
+        box-shadow: inset 0 1px 0 0 lighten($zurg-grey3, 15);
+    }
+
+    @include desktop() {
+        &:hover:not(:disabled) {
+            background-color: lighten($zurg-grey3, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(lighten($zurg-grey3, 6), $zurg-grey3) top repeat);
+                box-shadow: inset 0 1px 0 0 lighten($zurg-grey3, 18);
+            }
+        }
+        &:active:not(:disabled) {
+            background-color: darken($zurg-grey3, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(darken($zurg-grey3, 2), lighten($zurg-grey3, 2)) top repeat);
+            }
+        }
+    }
+}
+
+.button-primary {
+    @extend %button-base;
+
+    color: white;
+    background-color: $zurg-primary-button-color;
+    border: 1px solid darken($zurg-primary-button-color, 5);
+
+    @if $zurg-flat == false or $zurg-almost-flat == true {
+        text-shadow: 0 1px 0 darken($zurg-primary-button-color, 15);
+        @include background(linear-gradient(lighten($zurg-primary-button-color, 3), darken($zurg-primary-button-color, 3)) top repeat);
+        box-shadow: inset 0 1px 0 0 lighten($zurg-primary-button-color, 15);
+    }
+
+    @include desktop() {
+        &:hover:not(:disabled) {
+            background-color: lighten($zurg-primary-button-color, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(lighten($zurg-primary-button-color, 6), $zurg-primary-button-color) top repeat);
+                box-shadow: inset 0 1px 0 0 lighten($zurg-primary-button-color, 18);
+            }
+        }
+        &:active:not(:disabled) {
+            background-color: darken($zurg-primary-button-color, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(darken($zurg-primary-button-color, 2), lighten($zurg-primary-button-color, 2)) top repeat);
+            }
+        }
+    }
+}
+
+.button-secondary {
+    @extend %button-base;
+
+    color: white;
+    background-color: $zurg-secondary-button-color;
+    border: 1px solid darken($zurg-secondary-button-color, 5);
+
+    @if $zurg-flat == false or $zurg-almost-flat == true {
+        text-shadow: 0 1px 0 darken($zurg-secondary-button-color, 15);
+        @include background(linear-gradient(lighten($zurg-secondary-button-color, 3), darken($zurg-secondary-button-color, 3)) top repeat);
+        box-shadow: inset 0 1px 0 0 lighten($zurg-secondary-button-color, 15);
+    }
+
+    @include desktop() {
+        &:hover:not(:disabled) {
+            background-color: lighten($zurg-secondary-button-color, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(lighten($zurg-secondary-button-color, 6), $zurg-secondary-button-color) top repeat);
+                box-shadow: inset 0 1px 0 0 lighten($zurg-secondary-button-color, 18);
+            }
+        }
+        &:active:not(:disabled) {
+            background-color: darken($zurg-secondary-button-color, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(darken($zurg-secondary-button-color, 2), lighten($zurg-secondary-button-color, 2)) top repeat);
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+.nav {
+    overflow: hidden;
+    color: $zurg-grey5;
+    background-color: $zurg-color-nav;
+    border-top: solid 2px $zurg-primary-color;
+    border-bottom: solid 1px $grey1;
+    @if $zurg-flat == false {
+        @include background(linear-gradient(lighten($zurg-color-nav, 2), darken($zurg-color-nav, 2)) top repeat);
+    }
+    ul {
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+    li {
+        display: block;
+        height: $zurg-nav-height;
+        line-height: $zurg-nav-height;
+        list-style: none;
+        float: left;
+    }
+    .left li {
+    	margin-right: 1em;
+    }
+    .right li {
+    	margin-left: 1em;
+    }
+    a {
+        color: $zurg-color-nav-links;
+        font-size: .9em;
+        text-decoration: none;
+        border: 0;
+        @include desktop() {
+            &:hover {
+                color: lighten($zurg-color-nav-links, 5);
+            }
+            &:active {
+                color: darken($zurg-color-nav-links, 5);
+            }
+        }
+    }
+    .nav-logo {
+    	a {
+	        @include inline-block;
+	        color: $zurg-color-nav-logo;
+	        font-family: $zurg-font-nav-logo;
+	        font-weight: bold;
+	        @if $zurg-logo-uppercase == true {
+	        	text-transform: uppercase;
+	        }
+	    }
+    }
+    @include mobile() {
+        .row, .nav-collapse, ul, li {
+            width: 100%!important;
+            height: auto;
+            margin: 0!important;
+            float: none;
+        }
+        .sixcol, .threecol {
+            width: 50%;
+            margin: 0;
+            float: left;
+            &:first-child {
+                padding-left: 1em;
+            }
+            &.nav-mobile {
+                padding-right: 1em;
+            }
+        }
+        .last {
+            text-align: right;
+        }
+
+        .nav-mobile a {
+            display: block;
+            height: $zurg-nav-height;
+            font-size: 1em;
+            text-align: center;
+            float: right;
+        }
+        .nav-mobile i {
+            @include inline-block;
+            width: 1.9em;
+            height: 1.9em;
+            font-size: 16px;
+            line-height: 1.9em;
+            border-radius: .25em;
+            background-color: $zurg-grey5;
+            margin: .3em 0;
+            &[data-icon]:before {
+                -webkit-font-smoothing: none!important;
+            }
+        }
+
+        .nav-collapse {
+            display: none;
+            background-color: $zurg-grey5;
+            clear: both;
+        }
+        .nav-collapse ul {
+            background-color: transparent;
+        }
+        .nav-collapse a {
+            display: block;
+            padding: 0 1em;
+            border-bottom: solid 1px darken($zurg-grey5, 5);
+        }
+    }
+}

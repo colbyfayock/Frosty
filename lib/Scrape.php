@@ -1,7 +1,7 @@
 <?php
 
 function __autoload($class_name) {
-    include $class_name . '.php';
+	include $class_name . '.php';
 }
 
 function curl($url) {
@@ -15,32 +15,52 @@ function curl($url) {
 	return $results;
 }
 
-$woot = array();
+$faydev = false;
+$faycdnlink = empty($faydev) ? '/home/colbz/' : '../../../../../';
+$faydevlink = empty($faydev) ? '/home/colbz/' : '../';
 
-$woot['woot'] = new Woot('Woot', 'woot.com');
-$woot['tech'] = new Woot('Tech.Woot', 'tech.woot.com');
-$woot['home'] = new Woot('Home.Woot', 'home.woot.com');
-$woot['sport'] = new Woot('Sport.Woot', 'sport.woot.com');
-$woot['kids'] = new Woot('Kids.Woot', 'kids.woot.com');
-$woot['shirt'] = new Woot('Shirt.Woot', 'shirt.woot.com');
-$woot['wine'] = new Woot('Wine.Woot', 'wine.woot.com');
-$woot['sellout'] = new Woot('Sellout.Woot', 'sellout.woot.com');
+$sites = array();
 
-$midnight = array();
+$sites['woot'] = array();
 
-$midnight['midnight1'] = new MidnightBox('Midnight 1', '0');
-$midnight['midnight2'] = new MidnightBox('Midnight 2', '1');
-$midnight['midnight3'] = new MidnightBox('Midnight 3', '2');
-$midnight['midnight4'] = new MidnightBox('Midnight 4', '3');
-$midnight['midnight5'] = new MidnightBox('Midnight 5', '4');
-$midnight['midnight6'] = new MidnightBox('Midnight 6', '5');
+$sites['woot']['woot'] = new Woot('Woot', 'woot.com');
+$sites['woot']['accessories'] = new Woot('Accessories.woot', 'accessories.woot.com');
+$sites['woot']['tech'] = new Woot('Tech.Woot', 'tech.woot.com');
+$sites['woot']['home'] = new Woot('Home.Woot', 'home.woot.com');
+$sites['woot']['tools'] = new Woot('Tools.Woot', 'tools.woot.com');
+$sites['woot']['sport'] = new Woot('Sport.Woot', 'sport.woot.com');
+$sites['woot']['kids'] = new Woot('Kids.Woot', 'kids.woot.com');
+$sites['woot']['shirt'] = new Woot('Shirt.Woot', 'shirt.woot.com');
+$sites['woot']['wine'] = new Woot('Wine.Woot', 'wine.woot.com');
+$sites['woot']['sellout'] = new Woot('Sellout.Woot', 'sellout.woot.com');
 
-foreach($woot as $woot) {
-	print_r($woot->getWoot());
-	echo '<br><br>';
+$sites['midnight'] = array();
+
+$sites['midnight']['midnight1'] = new MidnightBox('Midnight 1', '0');
+$sites['midnight']['midnight2'] = new MidnightBox('Midnight 2', '1');
+$sites['midnight']['midnight3'] = new MidnightBox('Midnight 3', '2');
+$sites['midnight']['midnight4'] = new MidnightBox('Midnight 4', '3');
+$sites['midnight']['midnight5'] = new MidnightBox('Midnight 5', '4');
+$sites['midnight']['midnight6'] = new MidnightBox('Midnight 6', '5');
+
+ob_start();
+echo "<?xml version=\"1.0\"  encoding=\"UTF-8\" ?>\n";
+echo "<sites>\n";
+foreach($sites as $k => $v){
+	echo "<" . htmlspecialchars($k) . ">\n";
+	foreach($sites[$k] as $k1 => $v1){
+		echo "\t<" . htmlspecialchars($k1) . ">\n";
+			$site = $v1->getSite();
+			foreach($site as $k2 => $v2){
+				echo "\t\t<" . htmlspecialchars($k2) . ">" . htmlspecialchars($v2) . "</" . htmlspecialchars($k2) . ">\n";
+			}
+		echo "\t</" . htmlspecialchars($k1) . ">\n";
+	}
+	echo "</" . htmlspecialchars($k) . ">\n";
 }
+echo "</sites>";
+ob_end_flush();
 
-foreach($midnight as $midnight) {
-	print_r($midnight->getMidnight());
-	echo '<br><br>';
-}
+$scrape = "/home/colbz/frostydeals.com/wp-content/themes/frosty/lib/scrape.temp";
+$file  = "/home/colbz/frostydeals.com/wp-content/themes/frosty/lib/scrape.xml";
+rename($scrape, $file);

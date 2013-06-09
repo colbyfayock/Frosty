@@ -1,0 +1,20 @@
+/*!
+Theme Name: Frosty Deals newnew
+Theme URI: http://www.frostydeals.com
+Description: Frosty Deals web
+Version: 1.0
+Author: Colby Fayock & Broc Klein
+Author URI: http://www.colbyfayock.com
+Tags: Frosty Deals
+*/
+
+
+// Required
+@import 'zurg/base';
+
+// Start custom css here
+
+#deals .mix {
+	display: none;
+	opacity: 0;
+}

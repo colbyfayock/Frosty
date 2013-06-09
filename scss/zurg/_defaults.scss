@@ -1,0 +1,163 @@
+// Import user settings
+
+@import '../settings';
+
+
+/****************************************
+ * Variables
+ ****************************************/
+
+// Colors
+
+$grey1: #e4e6e9 !default;
+$zurg-grey1: $grey1;
+
+$grey2: #c8ccd2 !default;
+$zurg-grey2: $grey2;
+
+$grey3: #9198a3 !default;
+$zurg-grey3: $grey3;
+
+$grey4: #47484a !default;
+$zurg-grey4: $grey4;
+
+$grey5: #2d3133 !default;
+$zurg-grey5: $grey5;
+
+$red: #8f0e0c !default;
+$zurg-red: $red;
+
+$blue: #373b4c !default;
+$zurg-blue: $blue;
+
+$purple: #552e84 !default;
+$zurg-purple: $purple;
+
+// Specific colors
+
+$error-red: $zurg-red !default;
+$zurg-error-red: $error-red;
+
+// Fonts
+
+$sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$zurg-sans-serif: $sans-serif;
+
+
+/****************************************
+ * Scheme (Colors, etc)
+ ****************************************/
+
+// Scheme settings
+
+$flat: true !default;
+$zurg-flat: $flat !default;
+$almost-flat: true !default;
+$zurg-almost-flat: $almost-flat !default;
+
+@if $flat == true {
+	$zurg-flat: true;
+	$zurg-almost-flat: false;
+} @else if $flat == false {
+	$zurg-flat: false;
+	$zurg-almost-flat: false;
+} @else if $flat == 'almost-flat' {
+	$zurg-flat: true;
+	$zurg-almost-flat: $almost-flat;
+}
+
+
+
+// Colors
+
+$primary-color: $zurg-purple!default;
+$zurg-primary-color: $primary-color;
+
+$secondary-color: $zurg-red !default;
+$zurg-secondary-color: $secondary-color;
+
+// Copy
+
+$default-font: $zurg-sans-serif !default;
+$zurg-default-font: $default-font;
+
+$display-font: $zurg-default-font !default;
+$zurg-display-font: $display-font;
+
+$link-color: $zurg-secondary-color !default;
+$zurg-link-color: $link-color;
+
+$link-underline: true !default;
+$zurg-link-underline: $link-underline;
+
+
+/****************************************
+ * Objects (Buttons, etc)
+ ****************************************/
+
+// Buttons
+
+$primary-button-color: $zurg-secondary-color !default;
+$zurg-primary-button-color: $primary-button-color;
+
+$secondary-button-color: $zurg-primary-color !default;
+$zurg-secondary-button-color: $secondary-button-color;
+
+
+/****************************************
+ * Partials (Nav, Footer, etc)
+ ****************************************/
+
+// Nav
+
+$color-nav: $zurg-primary-color !default;
+$zurg-color-nav: $color-nav;
+
+$color-nav-logo: white !default;
+$zurg-color-nav-logo: $color-nav-logo;
+
+$color-nav-links: $zurg-grey1 !default;
+$zurg-color-nav-links: $color-nav-links;
+
+$font-nav-logo: $zurg-display-font !default;
+$zurg-font-nav-logo: $font-nav-logo;
+
+$logo-uppercase: false !default;
+$zurg-logo-uppercase: $logo-uppercase;
+
+$nav-height: 2.5em !default;
+$zurg-nav-height: $nav-height;
+
+// Footer
+
+$color-footer: $zurg-grey5 !default;
+$zurg-color-footer: $color-footer;
+
+$color-footer-links: $zurg-grey1 !default;
+$zurg-color-footer-links: $color-footer-links;
+
+
+/****************************************
+ * Body (Content, etc)
+ ****************************************/
+
+// Body
+
+$color-body: white !default;
+$zurg-color-body: $color-body;
+
+
+/****************************************
+ * Size Settings (Page width, etc)
+ ****************************************/
+
+// Dimensions
+
+$mobile-page-width: 640px;
+$tablet-page-width: 1024px;
+
+$large-page-width: 1000px;
+$small-page-width: 800px;
+
+$grid-page-width: 1600px;
+$grid-page-width-mobile: 640px;

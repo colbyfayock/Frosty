@@ -1,0 +1,78 @@
+$assets_path: 'assets';
+$img_path: #{$assets_path}/img;
+$fonts_path: #{$assets_path}/fonts;
+
+/****************************************
+ * Scheme (Colors, etc)
+ ****************************************/
+
+// Scheme
+
+$flat: true; // true, false, 'almost-flat'
+
+// Colors
+
+$grey1:  #e4e6e9;
+$grey2:  #c8ccd2;
+$grey3:  #9198a3;
+$grey4:  #47484a;
+$grey5:  #2d3133;
+$red:    #8f0e0c;
+$lblue:  #3792C9;
+$blue:   #373b4c;
+$dblue:  #1A2642;
+$purple: #552e84;
+
+$error-red: $red;
+
+$primary-color: $dblue;
+$secondary-color: $lblue;
+
+// Copy
+
+$zurg-sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+$default-font: $zurg-sans-serif;
+
+$display-font: 'Lemon', sans-serif;
+
+$link-color: $secondary-color;
+$link-underline: true;
+
+
+/****************************************
+ * Objects (Buttons, etc)
+ ****************************************/
+
+// Buttons
+
+$primary-button-color: $secondary-color;
+$secondary-button-color: $primary-color;
+
+
+/****************************************
+ * Partials (Nav, Footer, etc)
+ ****************************************/
+
+// Nav
+
+$color-nav: white;
+$color-nav-logo: $dblue;
+$color-nav-links: $grey3;
+
+$nav-height: 4em;
+
+// Footer
+
+$color-footer: $grey5;
+$color-footer-links: $grey1;
+
+
+/****************************************
+ * Body (Content, etc)
+ ****************************************/
+
+// Body
+
+$color-body: #fafafa;
+
