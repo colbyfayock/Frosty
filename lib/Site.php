@@ -48,6 +48,19 @@ class Site {
 		}
 
 		$string['prodSoldOutPercent'] = 100-($string['prodSoldOutPercent']*100);
+		if(empty($string['prodSoldOut']) ) {
+			if($string['prodSoldOutPercent'] === 0 && $string['siteSpecial'] == 'false') {
+				$string['prodSoldOut'] = true;
+			} else {
+				$string['prodSoldOut'] = false;
+			}
+		} else {
+			if($string['prodSoldOut'] == 'true') {
+				$string['prodSoldOut'] = true;
+			} else {
+				$string['prodSoldOut'] = false;
+			}
+		}
 
 		$string['prodZonLink'] = $string['prodName'];
 		$string['prodZonLink'] = str_replace(" ", "+", $string['prodZonLink']);
@@ -60,6 +73,17 @@ class Site {
 		}
 
 		return $string;
+	}
+
+	function setImage($appendName, $siteName, $prodImgUrl) {
+		$filename = $appendName . '-' . strtolower(preg_replace( '/\s+/', '', $siteName ));
+		if(file_exists('/home/colbz/cdn.frostydeals.com/deal-images/' . $filename . '.jpg')) {
+			if(md5_file('/home/colbz/cdn.frostydeals.com/deal-images/' . $filename . '.jpg') !== md5_file($prodImgUrl)) {
+				file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/' . $filename . '.jpg', file_get_contents($prodImgUrl));
+			}
+		} else {
+			file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/' . $filename . '.jpg', file_get_contents($prodImgUrl));
+		}
 	}
 
 }

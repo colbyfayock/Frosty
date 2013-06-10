@@ -1,0 +1,17 @@
+2013-06-09 23:32:06: -- FrostyDeals.com: ANALYSIS started by User on 'COLBY-XPS' (GoodSync 9.4.9.5)
+2013-06-09 23:32:06: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 23:32:06: L: Files: 97 (excluded 7). Folders: 11 (excluded 6). C: NTFS, Free: 334 GB, Total: 465 GB
+2013-06-09 23:32:21: R: Files: 97 (excluded 1). Folders: 11 (excluded 1). FTP: DreamHost FTP Server
+2013-06-09 23:32:21: Changes: 3, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-06-09 23:32:21: Left to Right: Copy File: 3 
+2013-06-09 23:32:21: -- Analysis Completed. Time 00:00:19, Speed: 6 files/s
+2013-06-09 23:32:21: 
+2013-06-09 23:32:26: == FrostyDeals.com: SYNC started by User on 'COLBY-XPS'
+2013-06-09 23:32:26: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 23:32:30: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\index.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/index.php'
+2013-06-09 23:32:32: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\lib\Scrape.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/lib/Scrape.php'
+2013-06-09 23:32:33: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\style.css' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/style.css'
+2013-06-09 23:32:35: Save State File ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/_gsdata_/_file_state_v4._gs
+2013-06-09 23:32:35: Items Synced OK: 3, Errors: 0
+2013-06-09 23:32:36: == Sync Completed. Time: 00:00:12, Speed: 3.04 KB/s (46.3 KB/s)
+2013-06-09 23:32:36: 

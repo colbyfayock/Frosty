@@ -18,6 +18,10 @@ require(['magnific'], function() {
 	});
 });
 
+require(['mixitup'], function() {
+	$('#deals').mixitup();
+});
+
 
 // Modules
 

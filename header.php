@@ -3,7 +3,9 @@
         <div class="sixcol nav-logo">
         	<ul class="left">
         		<li>
-            		<a href="#">Frosty Deals</a>
+            		<a href="<?=home_url()?>">
+            			<span class="text">Frosty Deals</span>
+            		</a>
             	</li>
             </ul>
         </div>

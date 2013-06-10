@@ -1,0 +1,23 @@
+2013-06-09 17:03:23: -- FrostyDeals.com: ANALYSIS started by User on 'COLBY-XPS' (GoodSync 9.4.9.5)
+2013-06-09 17:03:23: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 17:03:23: L: Files: 94 (excluded 7). Folders: 11 (excluded 6). C: NTFS, Free: 321 GB, Total: 465 GB
+2013-06-09 17:04:04: R: Files: 94 (excluded 1). Folders: 11 (excluded 1). FTP: DreamHost FTP Server
+2013-06-09 17:04:04: Changes: 3, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-06-09 17:04:04: Left to Right: Copy File: 3 
+2013-06-09 17:04:04: -- Analysis Completed. Time 00:00:46, Speed: 2 files/s
+2013-06-09 17:04:04: 
+2013-06-09 17:04:45: == FrostyDeals.com: SYNC started by User on 'COLBY-XPS'
+2013-06-09 17:04:45: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 17:04:50: Cannot Load Recycle DB: Data Connection: stopped by User Request
+2013-06-09 17:04:55: FTP: Fast reconnect succeeded
+2013-06-09 17:04:56: stopped by User Request
+2013-06-09 17:04:56: 
+2013-06-09 17:05:07: == FrostyDeals.com: SYNC started by User on 'COLBY-XPS'
+2013-06-09 17:05:07: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 17:05:16: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\lib\MidnightBox.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/lib/MidnightBox.php'
+2013-06-09 17:05:20: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\lib\Woot.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/lib/Woot.php'
+2013-06-09 17:05:23: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\lib\Yugster.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/lib/Yugster.php'
+2013-06-09 17:05:27: Save State File ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/_gsdata_/_file_state_v4._gs
+2013-06-09 17:05:29: Items Synced OK: 3, Errors: 0
+2013-06-09 17:05:29: == Sync Completed. Time: 00:00:29, Speed: 310 bytes/s (1.45 KB/s)
+2013-06-09 17:05:30: 

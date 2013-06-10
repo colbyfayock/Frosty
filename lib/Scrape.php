@@ -43,6 +43,16 @@ $sites['midnight']['midnight4'] = new MidnightBox('Midnight 4', '3');
 $sites['midnight']['midnight5'] = new MidnightBox('Midnight 5', '4');
 $sites['midnight']['midnight6'] = new MidnightBox('Midnight 6', '5');
 
+$sites['yugster'] = array();
+
+$sites['yugster']['daily-offer'] = new Yugster('Today\'s Offer', 'daily-offer');
+$sites['yugster']['todays-tech'] = new Yugster('Today\'s Tech', 'sneak-preview-offer');
+$sites['yugster']['yours-until-gone'] = new Yugster('Yours Until Gone', 'yours-until-gone');
+$sites['yugster']['sharp-or-shiny'] = new Yugster('Sharp or Shiny', 'sharp-or-shiny');
+$sites['yugster']['special-offer'] = new Yugster('Special Offer', 'special-offer');
+$sites['yugster']['free-today'] = new Yugster('Free Today', 'free-today');
+$sites['yugster']['plugster-s-pick'] = new Yugster('Weekend YUG', 'plugster-s-pick');
+
 ob_start();
 echo "<?xml version=\"1.0\"  encoding=\"UTF-8\" ?>\n";
 echo "<sites>\n";

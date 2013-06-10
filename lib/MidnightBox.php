@@ -33,7 +33,7 @@ class MidnightBox extends Site {
 		$this->data['siteName'] = $this->midnightName;
 		$this->data['siteUrl'] = "affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d" . $this->midnightUrl;
 		$this->data['siteLogo'] = 'midnightbox.png';
-		$this->data['prodDealImg'] = $string . ".jpg";
+		$this->data['prodDealImg'] = 'midnightbox-' . $string . ".jpg";
 		$this->data['siteSpecial'] = false;
 		$this->data['prodSoldOut'] = false;
 
@@ -62,10 +62,7 @@ class MidnightBox extends Site {
 
 		$this->data = parent::cleanStrings($this->data);
 
-		$siteNameTrim = strtolower(preg_replace( '/\s+/', '', $this->data['siteName'] ));
-		if(md5_file('/home/colbz/cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg') !== md5_file($this->data['prodImgUrl'])) {
-			file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg', file_get_contents($this->data['prodImgUrl']));
-		}
+		parent::setImage('midnightbox', $this->data['siteName'], $this->data['prodImgUrl']);
 
 		return $this->data;
 	}

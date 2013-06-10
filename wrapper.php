@@ -53,14 +53,8 @@
     <script>window.jQuery || document.write('<script src="<?=get_template_directory_uri();?>/assets/js/lib/jquery-1.9.1.min.js"><\/script>')</script>
 
     <script data-main="<?=$GLOBALS["TEMPLATE_RELATIVE_URL"]?>/assets/js/main.min" src="<?=$GLOBALS["TEMPLATE_RELATIVE_URL"]?>/assets/js/require.js"></script>
-    <script src="<?=$GLOBALS["TEMPLATE_RELATIVE_URL"]?>/assets/js/lib/jquery.mixitup.min.js"></script>
 
 	<script type="text/javascript">
-	$(function(){
-
-    	$('#deals').mixitup();
-
-	});
 	// Google Analytics
     var _gaq=[['_setAccount', 'UA-28068328-1'],['_trackPageview']];
     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

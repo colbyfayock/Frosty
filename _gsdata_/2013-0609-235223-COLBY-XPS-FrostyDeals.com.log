@@ -1,0 +1,19 @@
+2013-06-09 23:52:25: -- FrostyDeals.com: ANALYSIS started by User on 'COLBY-XPS' (GoodSync 9.4.9.5)
+2013-06-09 23:52:25: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 23:52:25: L: Files: 97 (excluded 7). Folders: 11 (excluded 6). C: NTFS, Free: 337 GB, Total: 465 GB
+2013-06-09 23:52:45: R: Files: 97 (excluded 1). Folders: 11 (excluded 1). FTP: DreamHost FTP Server
+2013-06-09 23:52:45: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-06-09 23:52:45: Left to Right: Copy File: 5 
+2013-06-09 23:52:45: -- Analysis Completed. Time 00:00:22, Speed: 5 files/s
+2013-06-09 23:52:45: 
+2013-06-09 23:54:06: == FrostyDeals.com: SYNC started by User on 'COLBY-XPS'
+2013-06-09 23:54:06: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 23:54:11: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\assets\js\build.js' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/assets/js/build.js'
+2013-06-09 23:54:15: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\assets\js\main.js' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/assets/js/main.js'
+2013-06-09 23:54:18: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\assets\js\main.min.js' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/assets/js/main.min.js'
+2013-06-09 23:54:19: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\style.css' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/style.css'
+2013-06-09 23:54:21: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\wrapper.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/wrapper.php'
+2013-06-09 23:54:23: Save State File ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/_gsdata_/_file_state_v4._gs
+2013-06-09 23:54:23: Items Synced OK: 5, Errors: 0
+2013-06-09 23:54:23: == Sync Completed. Time: 00:00:21, Speed: 4.58 KB/s (1.51 KB/s)
+2013-06-09 23:54:24: 

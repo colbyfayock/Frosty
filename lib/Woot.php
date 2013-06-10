@@ -31,7 +31,7 @@ class Woot extends Site {
 		$this->data['siteName'] = $this->wootName;
 		$this->data['siteUrl'] = $this->wootUrl;
 		$this->data['siteLogo'] = 'woot.png';
-		$this->data['prodDealImg'] = $string . ".jpg";
+		$this->data['prodDealImg'] = 'woot-' . $string . ".jpg";
 
 		$page = parent::getPage($this->wootUrl);
 
@@ -50,11 +50,7 @@ class Woot extends Site {
 
 		$this->data = parent::cleanStrings($this->data);
 
-		$siteNameTrim = strtolower(preg_replace( '/\s+/', '', $this->data['siteName'] ));
-		if(md5_file('/home/colbz/cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg') !== md5_file($this->data['prodImgUrl'])) {
-			file_put_contents('/home/colbz/cdn.frostydeals.com/deal-images/' . $siteNameTrim . '.jpg', file_get_contents($this->data['prodImgUrl']));
-		}
-
+		parent::setImage('woot', $this->data['siteName'], $this->data['prodImgUrl']);
 
 		return $this->data;
 	}

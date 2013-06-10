@@ -5,171 +5,171 @@
 		<siteName>Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>woot.jpg</prodDealImg>
+		<prodDealImg>woot-woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Hisense 46&amp;quot; 1080p LED HDTV</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/dc263812-1e63-48a9-9640-2a8802b98b31.png</prodImgUrl>
+		<prodName>iGo Portable Battery Pack w/ Apple Cable</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/eedcf757-49a5-4980-aada-06f8f4961e82.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
-		<prodCondition>Refurbished</prodCondition>
-		<prodPrice>$379.99</prodPrice>
-		<prodShipping>$5 Standard</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$17.99</prodPrice>
+		<prodShipping>$5 Standard OR $9 Two-Day OR $12 One-Day</prodShipping>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Hisense 46&amp;quot; 1080p LE...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Hisense+46%26quot;+1080p+LED+HDTV%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>iGo Portable Battery Pack...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=iGo+Portable+Battery+Pack+w/+Apple+Cable%26x=0%26y=0</prodZonLink>
 	</woot>
 	<accessories>
 		<siteName>Accessories.woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/accessories.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>accessories.woot.jpg</prodDealImg>
+		<prodDealImg>woot-accessories.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Clinique Happy Fragrance: His or Hers</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5fffd60d-90f0-4ae1-86a2-749346eba9ff.jpg</prodImgUrl>
+		<prodName>Burberry Brit: His or Hers</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/219a79bc-7cd5-476c-9312-c2891bdcae5a.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$39.99</prodPrice>
+		<prodPrice>$27.99</prodPrice>
 		<prodShipping>$5 Standard</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Clinique Happy Fragrance:...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Clinique+Happy+Fragrance:+His+or+Hers%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>Burberry Brit: His or Hers</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Burberry+Brit:+His+or+Hers%26x=0%26y=0</prodZonLink>
 	</accessories>
 	<tech>
 		<siteName>Tech.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/tech.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>tech.woot.jpg</prodDealImg>
+		<prodDealImg>woot-tech.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Hannspree 28&amp;quot; 1080p LCD HDTV</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/f3a08d08-79c0-4590-9033-92fd14311ccc.jpg</prodImgUrl>
+		<prodName>Maxell Universal Tablet Sound System</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/efaa19e5-7931-4bbd-a934-3d4ef0a9520b.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$179.99</prodPrice>
-		<prodShipping>$5 Standard</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodPrice>$14.99</prodPrice>
+		<prodShipping>$5 Standard OR $9 Two-Day OR $12 One-Day</prodShipping>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Hannspree 28&amp;quot; 1080p ...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Hannspree+28%26quot;+1080p+LCD+HDTV%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>Maxell Universal Tablet S...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Maxell+Universal+Tablet+Sound+System%26x=0%26y=0</prodZonLink>
 	</tech>
 	<home>
 		<siteName>Home.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/home.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>home.woot.jpg</prodDealImg>
+		<prodDealImg>woot-home.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Westinghouse Flameless Candle Lantern 4PK (4 Styles)</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/ac1c3435-3f31-47de-b890-69ae3c66fa6c.jpg</prodImgUrl>
+		<prodName>30-Setting Dual Combo Shower</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5ff351c2-0164-46db-a7ae-f0230627b19c.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition></prodCondition>
 		<prodPrice>$24.99</prodPrice>
-		<prodShipping>$5 Standard</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodShipping>$5 Standard OR $9 Two-Day OR $12 One-Day</prodShipping>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Westinghouse Flameless Ca...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Westinghouse+Flameless+Candle+Lantern+4PK+(4+Styles)%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>30-Setting Dual Combo Shower</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=30-Setting+Dual+Combo+Shower%26x=0%26y=0</prodZonLink>
 	</home>
 	<tools>
 		<siteName>Tools.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/tools.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>tools.woot.jpg</prodDealImg>
+		<prodDealImg>woot-tools.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>10x8 Storage Shed w/ Skylight &amp;amp; Floor Kit</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/1e6b42ed-5d22-40b2-9cc9-1a71e5f1d940.jpg</prodImgUrl>
+		<prodName>RST Outdoor Sunbrella Hammock Bed</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/3cc1e6cf-d0a5-498c-a11c-2b81c7484a1f.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$439.99</prodPrice>
+		<prodPrice>$99.99</prodPrice>
 		<prodShipping>$5 Standard</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>10x8 Storage Shed w/ Skyl...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=10x8+Storage+Shed+w/+Skylight+%26+Floor+Kit%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>RST Outdoor Sunbrella Ham...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=RST+Outdoor+Sunbrella+Hammock+Bed%26x=0%26y=0</prodZonLink>
 	</tools>
 	<sport>
 		<siteName>Sport.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/sport.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>sport.woot.jpg</prodDealImg>
+		<prodDealImg>woot-sport.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Goal Zero Bolt Rechargeable Flashlight</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/961293a4-9308-4d58-ba21-a1707a3d5758.jpg</prodImgUrl>
+		<prodName>Cleveland CG16 Iron Set RH (4 Choices)</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/f65f37b9-1a95-43ed-be57-a2bf65dba689.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$19.99</prodPrice>
-		<prodShipping>$5 Standard OR $9 Two-Day OR $12 One-Day</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodPrice>$329.99</prodPrice>
+		<prodShipping>$5 Standard</prodShipping>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Goal Zero Bolt Rechargeab...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Goal+Zero+Bolt+Rechargeable+Flashlight%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>Cleveland CG16 Iron Set R...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Cleveland+CG16+Iron+Set+RH+(4+Choices)%26x=0%26y=0</prodZonLink>
 	</sport>
 	<kids>
 		<siteName>Kids.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/kids.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>kids.woot.jpg</prodDealImg>
+		<prodDealImg>woot-kids.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Disney Baby Cars Bouncer</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/6a1bb7f5-4db0-48c5-89e1-413901f4c48b.jpg</prodImgUrl>
+		<prodName>Spring Horse, Bull or Pegasus</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/66374ebd-a446-4e0f-ab3b-a2af0a179720.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
-		<prodCondition></prodCondition>
-		<prodPrice>$24.99</prodPrice>
-		<prodShipping>$5 Standard OR $10 Two-Day OR $14 One-Day</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodCondition>New</prodCondition>
+		<prodPrice>$89.99</prodPrice>
+		<prodShipping>$5 Standard OR $24 Two-Day OR $27 One-Day</prodShipping>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Disney Baby Cars Bouncer</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Disney+Baby+Cars+Bouncer%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>Spring Horse, Bull or Peg...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Spring+Horse,+Bull+or+Pegasus%26x=0%26y=0</prodZonLink>
 	</kids>
 	<shirt>
 		<siteName>Shirt.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/shirt.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>shirt.woot.jpg</prodDealImg>
+		<prodDealImg>woot-shirt.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Elemental Model of the Universe</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/551dac28-c991-44d8-9560-ef9fd7b4bb99.png</prodImgUrl>
+		<prodName>Transporter Guide</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5414ad4b-0151-4f89-9ae5-45de90bd6a7b.png</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition></prodCondition>
 		<prodPrice>$12.00</prodPrice>
 		<prodShipping>Free OR $5 One-Day OR $5 Standard International</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Elemental Model of the Un...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Elemental+Model+of+the+Universe%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>Transporter Guide</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Transporter+Guide%26x=0%26y=0</prodZonLink>
 	</shirt>
 	<wine>
 		<siteName>Wine.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/wine.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>wine.woot.jpg</prodDealImg>
+		<prodDealImg>woot-wine.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>R. Merlo Trinity County Pinot Noir (4)</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/377877a9-a5d1-44e5-ac7f-0e35d44c8949.jpg</prodImgUrl>
+		<prodName>R. Merlo Estate Chardonnay (5)</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/253a4ac4-39ec-48a0-856b-3164a525b851.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition></prodCondition>
-		<prodPrice>$63.99</prodPrice>
+		<prodPrice>$59.99</prodPrice>
 		<prodShipping>$5 Standard</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>R. Merlo Trinity County P...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=R.+Merlo+Trinity+County+Pinot+Noir+(4)%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>R. Merlo Estate Chardonna...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=R.+Merlo+Estate+Chardonnay+(5)%26x=0%26y=0</prodZonLink>
 	</wine>
 	<sellout>
 		<siteName>Sellout.Woot</siteName>
 		<siteUrl>http://api.woot.com/1/sales/current.rss/sellout.woot.com</siteUrl>
 		<siteLogo>woot.png</siteLogo>
-		<prodDealImg>sellout.woot.jpg</prodDealImg>
+		<prodDealImg>woot-sellout.woot.jpg</prodDealImg>
 		<siteSpecial>false</siteSpecial>
-		<prodName>Harman Kardon 5.1-Channel A/V Receiver</prodName>
-		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/5494dd9a-c919-47c0-8e6d-2adcd6b2e129.jpg</prodImgUrl>
+		<prodName>ZyXEL 500Mbps Gigabit Powerline Adapters</prodName>
+		<prodImgUrl>http://d3gqasl9vmjfd8.cloudfront.net/0a2eb8e1-988c-4ed7-ac8d-137494615de3.jpg</prodImgUrl>
 		<prodDescription></prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$149.99</prodPrice>
-		<prodShipping>$5 Standard OR $20 Two-Day OR $24 One-Day</prodShipping>
-		<prodSoldOut>false</prodSoldOut>
+		<prodPrice>$59.99</prodPrice>
+		<prodShipping>$5 Standard OR $12 Two-Day OR $15 One-Day</prodShipping>
+		<prodSoldOut></prodSoldOut>
 		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Harman Kardon 5.1-Channel...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Harman+Kardon+5.1-Channel+A/V+Receiver%26x=0%26y=0</prodZonLink>
+		<prodNameTrim>ZyXEL 500Mbps Gigabit Pow...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=ZyXEL+500Mbps+Gigabit+Powerline+Adapters%26x=0%26y=0</prodZonLink>
 	</sellout>
 </woot>
 <midnight>
@@ -177,103 +177,224 @@
 		<siteName>Midnight 1</siteName>
 		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d0</siteUrl>
 		<siteLogo>midnightbox.png</siteLogo>
-		<prodDealImg>midnight1.jpg</prodDealImg>
+		<prodDealImg>midnightbox-midnight1.jpg</prodDealImg>
 		<siteSpecial></siteSpecial>
 		<prodSoldOut></prodSoldOut>
-		<prodName>Stainless Steel Cleaning Soap</prodName>
-		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054172-110.jpg</prodImgUrl>
-		<prodDescription>Miraculously removes any unwanted smells or odors from your hands after handling things such as onion, garlic, fish, cash, petrol, diesel, medicine etc.  Easy to use, just use this like a bar of common soap, rubbing it on your hands and soaking your hands in the water.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054172-110.jpg&quot;</prodDescription>
+		<prodName>Polarized Sports Sunglasses with 5 Interchangeable Lens</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054169-110.jpg</prodImgUrl>
+		<prodDescription>Includes 5 replaceable lenses that can been switched for different environments: colorful lens, polarized lens, yellow lens, blue lens and transparent.  They are easily interchangeable depending on your need.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054169-110.jpg&quot;</prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$4.95</prodPrice>
+		<prodPrice>$17.95</prodPrice>
 		<prodShipping>$3.99</prodShipping>
-		<prodSoldOutPercent>54</prodSoldOutPercent>
-		<prodNameTrim>Stainless Steel Cleaning ...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Stainless+Steel+Cleaning+Soap%26x=0%26y=0</prodZonLink>
+		<prodSoldOutPercent>72</prodSoldOutPercent>
+		<prodNameTrim>Polarized Sports Sunglass...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Polarized+Sports+Sunglasses+with+5+Interchangeable+Lens%26x=0%26y=0</prodZonLink>
 	</midnight1>
 	<midnight2>
 		<siteName>Midnight 2</siteName>
 		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d1</siteUrl>
 		<siteLogo>midnightbox.png</siteLogo>
-		<prodDealImg>midnight2.jpg</prodDealImg>
+		<prodDealImg>midnightbox-midnight2.jpg</prodDealImg>
 		<siteSpecial></siteSpecial>
 		<prodSoldOut></prodSoldOut>
-		<prodName>Lego Inspired RC Car - Choose From 3 Colors</prodName>
-		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054165-110.jpg</prodImgUrl>
-		<prodDescription>The ergonomic curved design provides an optimum gaming experience.  Built-in battery extends your gaming time.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054170-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt2/10054170-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt3/10054170-110.jpg&quot;</prodDescription>
+		<prodName>Handsfree Bluetooth Sun Visor 3.0 Kit</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054171-110.jpg</prodImgUrl>
+		<prodDescription>Hands-free device for safer driving.  Requires no installation - can be simply and quickly paired to your phone.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054171-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt2/10054171-110.jpg&quot;</prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$15.95</prodPrice>
+		<prodPrice>$17.95</prodPrice>
 		<prodShipping>$3.99</prodShipping>
-		<prodSoldOutPercent>80</prodSoldOutPercent>
-		<prodNameTrim>Lego Inspired RC Car - Ch...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Lego+Inspired+RC+Car+-+Choose+From+3+Colors%26x=0%26y=0</prodZonLink>
+		<prodSoldOutPercent>93</prodSoldOutPercent>
+		<prodNameTrim>Handsfree Bluetooth Sun V...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Handsfree+Bluetooth+Sun+Visor+3.0+Kit%26x=0%26y=0</prodZonLink>
 	</midnight2>
 	<midnight3>
 		<siteName>Midnight 3</siteName>
 		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d2</siteUrl>
 		<siteLogo>midnightbox.png</siteLogo>
-		<prodDealImg>midnight3.jpg</prodDealImg>
+		<prodDealImg>midnightbox-midnight3.jpg</prodDealImg>
 		<siteSpecial></siteSpecial>
 		<prodSoldOut></prodSoldOut>
-		<prodName>Game Controller for iPhone 5 with Built-in Battery Backup (Choose from White or Black)</prodName>
-		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054170-110.jpg</prodImgUrl>
-		<prodDescription>This USB Travel Adapter has 4 interchangeable plugs (US, EU, AU, UK), can be used with most common power outlets in the world.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10053223-110.jpg&quot;</prodDescription>
+		<prodName>Charging Dock - Choose Between iPhone 5 and Micro USB</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054174-110.jpg</prodImgUrl>
+		<prodDescription>Insert into any electrical outlet and charge your device upright.  Keep your phone off the floor and out of harm's way.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054174-110.jpg&quot;</prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$31.95</prodPrice>
+		<prodPrice>$8.95</prodPrice>
 		<prodShipping>$3.99</prodShipping>
-		<prodSoldOutPercent>100</prodSoldOutPercent>
-		<prodNameTrim>Game Controller for iPhon...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Game+Controller+for+iPhone+5+with+Built-in+Battery+Backup+(Choose+from+White+or+Black)%26x=0%26y=0</prodZonLink>
+		<prodSoldOutPercent>88</prodSoldOutPercent>
+		<prodNameTrim>Charging Dock - Choose Be...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Charging+Dock+-+Choose+Between+iPhone+5+and+Micro+USB%26x=0%26y=0</prodZonLink>
 	</midnight3>
 	<midnight4>
 		<siteName>Midnight 4</siteName>
 		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d3</siteUrl>
 		<siteLogo>midnightbox.png</siteLogo>
-		<prodDealImg>midnight4.jpg</prodDealImg>
+		<prodDealImg>midnightbox-midnight4.jpg</prodDealImg>
 		<siteSpecial></siteSpecial>
 		<prodSoldOut></prodSoldOut>
-		<prodName>4-Port USB Wall Socket with Interchangeable Travel Adapters</prodName>
-		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10053223-110.jpg</prodImgUrl>
-		<prodDescription>Made of high quality silk - comfortable to wear.  Skull prints for a more unique and individual look.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054181-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt2/10054181-110.jpg&quot;&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt3/10054181-110.jpg&quot;</prodDescription>
+		<prodName>Tangle Teaser Brush</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054188-110.jpg</prodImgUrl>
+		<prodDescription>Keep your hair smooth, glossy, and tangle free.  Glides through your hair easily with no pulling, tugging or yanking.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054188-110.jpg&quot;</prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$11.95</prodPrice>
+		<prodPrice>$5.49</prodPrice>
 		<prodShipping>$3.99</prodShipping>
-		<prodSoldOutPercent>96</prodSoldOutPercent>
-		<prodNameTrim>4-Port USB Wall Socket wi...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=4-Port+USB+Wall+Socket+with+Interchangeable+Travel+Adapters%26x=0%26y=0</prodZonLink>
+		<prodSoldOutPercent>75</prodSoldOutPercent>
+		<prodNameTrim>Tangle Teaser Brush</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Tangle+Teaser+Brush%26x=0%26y=0</prodZonLink>
 	</midnight4>
 	<midnight5>
 		<siteName>Midnight 5</siteName>
 		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d4</siteUrl>
 		<siteLogo>midnightbox.png</siteLogo>
-		<prodDealImg>midnight5.jpg</prodDealImg>
+		<prodDealImg>midnightbox-midnight5.jpg</prodDealImg>
 		<siteSpecial></siteSpecial>
 		<prodSoldOut></prodSoldOut>
-		<prodName>Authentic Silk Skull Shawl - Choose From 3 Unique Colors!</prodName>
-		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054181-110.jpg</prodImgUrl>
-		<prodDescription>Mini size - convenient and simple to use indoors or outdoors.  Evaporative cooling technology - features a mini fan.</prodDescription>
+		<prodName>5kg Digital Kitchen Scale - Choose From 2 Colors</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054185-110.jpg</prodImgUrl>
+		<prodDescription>Wide screen display, multi-unit display, easy to read.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054185-110.jpg&quot;</prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$30.95</prodPrice>
+		<prodPrice>$14.95</prodPrice>
 		<prodShipping>$3.99</prodShipping>
-		<prodSoldOutPercent>99</prodSoldOutPercent>
-		<prodNameTrim>Authentic Silk Skull Shaw...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Authentic+Silk+Skull+Shawl+-+Choose+From+3+Unique+Colors!%26x=0%26y=0</prodZonLink>
+		<prodSoldOutPercent>95</prodSoldOutPercent>
+		<prodNameTrim>5kg Digital Kitchen Scale...</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=5kg+Digital+Kitchen+Scale+-+Choose+From+2+Colors%26x=0%26y=0</prodZonLink>
 	</midnight5>
 	<midnight6>
 		<siteName>Midnight 6</siteName>
 		<siteUrl>affiliates.make-a-store.com/Tracker.aspx?aid=811&amp;amp;href=http%3a%2f%2fwww.midnightbox.com%2f%3fdealboxtabs%3d5</siteUrl>
 		<siteLogo>midnightbox.png</siteLogo>
-		<prodDealImg>midnight6.jpg</prodDealImg>
+		<prodDealImg>midnightbox-midnight6.jpg</prodDealImg>
 		<siteSpecial></siteSpecial>
 		<prodSoldOut></prodSoldOut>
-		<prodName>Mini USB Air Conditioning Fan - Choose From 3 Unique Colors</prodName>
-		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054177-110.jpg</prodImgUrl>
-		<prodDescription></prodDescription>
+		<prodName>6-Piece Zipper Replacements</prodName>
+		<prodImgUrl>http://www.icraveit.com/mas_assets/mid/10054164-110.jpg</prodImgUrl>
+		<prodDescription>Fix broken zippers in an instant.&lt;/P&gt;&lt;P&gt;&lt;IMG border=0 hspace=0 alt=&quot;&quot; align=baseline src=&quot;http://www.bazingaroo.com/mas_assets/alt1/10054164-110.jpg&quot;</prodDescription>
 		<prodCondition>New</prodCondition>
-		<prodPrice>$12.95</prodPrice>
+		<prodPrice>$3.95</prodPrice>
 		<prodShipping>$3.99</prodShipping>
-		<prodSoldOutPercent>79</prodSoldOutPercent>
-		<prodNameTrim>Mini USB Air Conditioning...</prodNameTrim>
-		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Mini+USB+Air+Conditioning+Fan+-+Choose+From+3+Unique+Colors%26x=0%26y=0</prodZonLink>
+		<prodSoldOutPercent>25</prodSoldOutPercent>
+		<prodNameTrim>6-Piece Zipper Replacements</prodNameTrim>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=6-Piece+Zipper+Replacements%26x=0%26y=0</prodZonLink>
 	</midnight6>
 </midnight>
+<yugster>
+	<daily-offer>
+		<siteName>Today's Offer</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/daily-offer</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-today'soffer.jpg</prodDealImg>
+		<prodName>5000 mAh Power Pack for Smart Phones, Tablets</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26439/big_thumb_5000mah_power_pack_2.jpg</prodImgUrl>
+		<prodDescription>&amp;nbsp;&amp;nbsp;&amp;nbsp; Storage Humidity: 20% ~ 78%</prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$14.97</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOutPercent>45.263888888889</prodSoldOutPercent>
+		<prodNameTrim>5000 mAh Power Pack for S...</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=5000+mAh+Power+Pack+for+Smart+Phones,+Tablets%26x=0%26y=0</prodZonLink>
+	</daily-offer>
+	<todays-tech>
+		<siteName>Today's Tech</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/sneak-preview-offer</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-today'stech.jpg</prodDealImg>
+		<prodName>Monkey King USB HD Webcam with Microphone &amp;amp; LED</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26433/C00497-2.JPG</prodImgUrl>
+		<prodDescription>&amp;nbsp;&amp;nbsp;&amp;nbsp; All systems are suitable, except Apple notebooks</prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$4.97</prodPrice>
+		<prodShipping>$2</prodShipping>
+		<prodSoldOutPercent>45.262731481481</prodSoldOutPercent>
+		<prodNameTrim>Monkey King USB HD Webcam...</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Monkey+King+USB+HD+Webcam+with+Microphone+%26+LED%26x=0%26y=0</prodZonLink>
+	</todays-tech>
+	<yours-until-gone>
+		<siteName>Yours Until Gone</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/yours-until-gone</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-yoursuntilgone.jpg</prodDealImg>
+		<prodName>PurePlug Direct Plug-in Air Purifier</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26367/417eEjvjseL._SS400_.jpg</prodImgUrl>
+		<prodDescription>&lt;b&gt;I love the smell&lt;/b&gt; - &amp;quot;I love the smell that ionizers emit and have been looking for something that worked well... From the moment I plugged this in I got that pleasant, clean ionizer smell. I love it! As soon as I can, I plan to buy another one of these and keep one in the bedroom and one in the kitchen area... I highly recommend this awesome product and it&amp;#39;s one of my favorite things on here.&amp;quot;</prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$19.97</prodPrice>
+		<prodShipping>$2</prodShipping>
+		<prodSoldOutPercent>45.260416666667</prodSoldOutPercent>
+		<prodNameTrim>PurePlug Direct Plug-in A...</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=PurePlug+Direct+Plug-in+Air+Purifier%26x=0%26y=0</prodZonLink>
+	</yours-until-gone>
+	<sharp-or-shiny>
+		<siteName>Sharp or Shiny</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/sharp-or-shiny</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-sharporshiny.jpg</prodDealImg>
+		<prodName>Set of 4: Motion-Activated LED Wheel Lights - Blue or Pink</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26377/85968-1-rg.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$8.97</prodPrice>
+		<prodShipping>$3</prodShipping>
+		<prodSoldOutPercent>45.259259259259</prodSoldOutPercent>
+		<prodNameTrim>Set of 4: Motion-Activate...</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Set+of+4:+Motion-Activated+LED+Wheel+Lights+-+Blue+or+Pink%26x=0%26y=0</prodZonLink>
+	</sharp-or-shiny>
+	<special-offer>
+		<siteName>Special Offer</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/special-offer</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-specialoffer.jpg</prodDealImg>
+		<prodName>Retro Handset For Mobile Phones, Tablets &amp;amp; Laptops</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26421/72-5505B.jpg</prodImgUrl>
+		<prodDescription>&amp;nbsp;&amp;nbsp;&amp;nbsp; 30-Day Yugster Warranty</prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$6.97</prodPrice>
+		<prodShipping>$3</prodShipping>
+		<prodSoldOutPercent>45.258101851852</prodSoldOutPercent>
+		<prodNameTrim>Retro Handset For Mobile ...</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Retro+Handset+For+Mobile+Phones,+Tablets+%26+Laptops%26x=0%26y=0</prodZonLink>
+	</special-offer>
+	<free-today>
+		<siteName>Free Today</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/free-today</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-freetoday.jpg</prodDealImg>
+		<prodName>Network USB LAN Cable Tester</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26446/CQ092-2.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$0.00</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOutPercent>45.256944444444</prodSoldOutPercent>
+		<prodNameTrim>Network USB LAN Cable Tester</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Network+USB+LAN+Cable+Tester%26x=0%26y=0</prodZonLink>
+	</free-today>
+	<plugster-s-pick>
+		<siteName>Weekend YUG</siteName>
+		<siteUrl>yugster.com/todays-deals/yugster.com/todays-deals/plugster-s-pick</siteUrl>
+		<siteLogo>yugster.png</siteLogo>
+		<siteSpecial></siteSpecial>
+		<prodDealImg>yugster-weekendyug.jpg</prodDealImg>
+		<prodName>Logitech Harmony 1100 Universal Remote with Color Touch Screen</prodName>
+		<prodImgUrl>http://yugster.com/uploads/image/image/26357/harmony.jpg</prodImgUrl>
+		<prodDescription></prodDescription>
+		<prodCondition></prodCondition>
+		<prodPrice>$154.97</prodPrice>
+		<prodShipping>$5</prodShipping>
+		<prodSoldOutPercent>45.255787037037</prodSoldOutPercent>
+		<prodNameTrim>Logitech Harmony 1100 Uni...</prodNameTrim>
+		<prodSoldOut></prodSoldOut>
+		<prodZonLink>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps%26field-keywords=Logitech+Harmony+1100+Universal+Remote+with+Color+Touch+Screen%26x=0%26y=0</prodZonLink>
+	</plugster-s-pick>
+</yugster>
 </sites>

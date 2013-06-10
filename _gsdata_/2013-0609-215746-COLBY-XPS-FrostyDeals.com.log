@@ -1,0 +1,19 @@
+2013-06-09 21:57:47: -- FrostyDeals.com: ANALYSIS started by User on 'COLBY-XPS' (GoodSync 9.4.9.5)
+2013-06-09 21:57:47: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 21:57:47: L: Files: 95 (excluded 7). Folders: 11 (excluded 6). C: NTFS, Free: 334 GB, Total: 465 GB
+2013-06-09 21:58:03: R: Files: 94 (excluded 1). Folders: 11 (excluded 1). FTP: DreamHost FTP Server
+2013-06-09 21:58:03: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-06-09 21:58:03: Left to Right: Copy File: 4 Delete File: 1 
+2013-06-09 21:58:03: -- Analysis Completed. Time 00:00:17, Speed: 7 files/s
+2013-06-09 21:58:03: 
+2013-06-09 21:58:09: == FrostyDeals.com: SYNC started by User on 'COLBY-XPS'
+2013-06-09 21:58:09: C:\wamp\www\Frosty\wp-content\themes\frosty =PropDels=> ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty, CopyCreateTime
+2013-06-09 21:58:16: Delete File 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/images/frosty-logo-mobile.png'
+2013-06-09 21:58:17: Copy New 'C:\wamp\www\Frosty\wp-content\themes\frosty\assets\img\frosty-deals-logo.png' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/assets/img/frosty-deals-logo.png'
+2013-06-09 21:58:18: Copy New 'C:\wamp\www\Frosty\wp-content\themes\frosty\assets\img\frosty-deals-logo@2x.png' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/assets/img/frosty-deals-logo@2x.png'
+2013-06-09 21:58:20: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\header.php' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/header.php'
+2013-06-09 21:58:25: Copy Over 'C:\wamp\www\Frosty\wp-content\themes\frosty\style.css' -> 'ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/style.css'
+2013-06-09 21:58:26: Save State File ftp://gaborone.dreamhost.com/frostydeals.com/wp-content/themes/frosty/_gsdata_/_file_state_v4._gs
+2013-06-09 21:58:27: Items Synced OK: 5, Errors: 0
+2013-06-09 21:58:27: == Sync Completed. Time: 00:00:21, Speed: 2.21 KB/s (6.18 KB/s)
+2013-06-09 21:58:28: 

@@ -1,4 +1,5 @@
 .deals-main {
+	overflow: hidden;
 	.sort {
 		padding-bottom: 1em;
 	}
@@ -13,6 +14,9 @@
 		&.break {
 			margin-bottom: 0;
 		}
+		&.sold-out {
+			opacity: .5;
+		}
 		a {
 			display: block;
 			cursor: -moz-zoom-in;
@@ -20,10 +24,15 @@
 			cursor: zoom-in;
 		}
 	}
+	@include mobile() {
+		article {
+			width: 49%;
+		}
+	}
 }
 
 .deal-info {
-	width:50%;
+	width: 60%;
 	color: $grey5;
 	background-color: $grey1;
 	padding: 1em;
@@ -31,7 +40,37 @@
 	h3 {
 		color: $lblue;
 	}
+	h4 {
+		display: inline;
+	}
 	.deal-info-image img {
 		width: 100%;
+	}
+	.site-logo {
+		max-width: 100%;
+		max-height: 2em;
+		margin-bottom: 1.5em;
+	}
+	.twocol {
+		margin-bottom: .5em;
+	}
+	.button-primary {
+		margin-top: 1.5em;
+	}
+	@include mobile {
+		width: 90%;
+		.button-primary {
+			margin-bottom: 0;
+		}
+		button {
+			top: -1em;
+			color: white!important;
+			opacity: 1;
+			background-color: $grey5!important;
+			border-radius: 44px;
+			&:active {
+				top: -1em!important;
+			}
+		}
 	}
 }
